@@ -1,0 +1,35 @@
+{
+    "banner":{
+        "src":"http://localhost:4000/img/index/banner/banner.png"
+    },
+    "newProduct":[
+        {
+            "src":"http://localhost:4000/img/index/new_product/product01.png",
+            "name":"藤椅沙发",
+            "describe":"户外沙发组合阳台休闲沙发客厅藤条沙发椅藤编家具",
+            "price":"2590-5570"
+        },
+        {
+            "src":"http://localhost:4000/img/index/new_product/product02.png",
+            "name":"贵妃椅",
+            "describe":"简约现代单人懒人布艺实木贵妃椅",
+            "price":"980"
+        },
+        {
+            "src":"http://localhost:4000/img/index/new_product/product03.png",
+            "name":"橡木床",
+            "describe":"美式乡村家具高档别墅拉扣软靠1.8m双人床橡木实木床",
+            "price":"2180" 
+        }
+    ],
+    "liveHome":[
+        {
+            "banner":"http://localhost:4000/img/index/collocation/banner_cabinet.png",
+            "product01":{
+
+            }
+
+        }
+    ],
+    "recomend":{}
+}

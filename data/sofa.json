@@ -1,0 +1,50 @@
+[
+    {
+        "src":"http://localhost:3000/img/sofa/sofa01.png",
+        "name":"新主题布艺沙发",
+        "describe":"极简经典设计 天然亲肤",
+        "price":"1350-7580"
+    },
+    {
+        "src":"http://localhost:3000/img/sofa/sofa02.png",
+        "name":"博得沙发",
+        "describe":"意大利全青皮 纯鹅绒填充",
+        "price":"4320-37399"
+    },
+    {
+        "src":"http://localhost:3000/img/sofa/sofa03.png",
+        "name":"桃源沙发",
+        "describe":"天然棉麻混纺",
+        "price":"2790-22280"
+    },
+    {
+        "src":"http://localhost:3000/img/sofa/sofa04.png",
+        "name":"光阴沙发",
+        "describe":"高级羊毛 亲肤舒适",
+        "price":"3160-8140"
+    },
+    {
+        "src":"http://localhost:3000/img/sofa/sofa05.png",
+        "name":"若邻休闲椅",
+        "describe":"环抱式设计",
+        "price":"3602"
+    },
+    {
+        "src":"http://localhost:3000/img/sofa/sofa06.png",
+        "name":"贝沙发",
+        "describe":"松木框架 进口棉麻",
+        "price":"860-8890"
+    },
+    {
+        "src":"http://localhost:3000/img/sofa/sofa07.png",
+        "name":"阿曼达沙发",
+        "describe":"简美风格 时尚大气",
+        "price":"4796"
+    },
+    {
+        "src":"http://localhost:3000/img/sofa/sofa08.png",
+        "name":"伯爵沙发",
+        "describe":"进口全青皮",
+        "price":"3160-8140"
+    }
+]
