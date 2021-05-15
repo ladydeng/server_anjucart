@@ -8,6 +8,7 @@ app.use(express.static("public"));
 
 // 获取沙发数据
 app.get("/findSofa", (req, res) => {
+  res.setHeader("Access-Control-Allow-Origin", "*");
   console.log("接受到请求/findSofa")
   res.setHeader("Access-Control-Allow-Origin", "*")
   res.sendFile(__dirname + "/data/sofa.json")

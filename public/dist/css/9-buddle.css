@@ -1,0 +1,29 @@
+/*! 最终版权归**所有 */
+
+.excavator-management[data-v-6023ad00] {
+  box-sizing: border-box;
+  padding: 10px;
+}
+.title[data-v-6023ad00] {
+  font-size: 20px;
+  font-weight: 700;
+  color: #333;
+  line-height: 50px;
+}
+/* 按钮边界 */
+.boundary[data-v-6023ad00] {
+  padding-left: 20px;
+}
+.search[data-v-6023ad00] {
+  margin-top: 5px;
+}
+.table[data-v-6023ad00] {
+  margin-top: 20px;
+}
+
+
+/* 分页样式 */
+.center-style[data-v-6023ad00] {
+  text-align: right;
+}
+

@@ -1,0 +1,44 @@
+/*! 最终版权归**所有 */
+
+.role-management[data-v-f45c750e] {
+  box-sizing: border-box;
+  padding: 10px;
+}
+.title[data-v-f45c750e] {
+  font-size: 20px;
+  font-weight: 700;
+  color: #333;
+  line-height: 50px;
+}
+
+/* 按钮边界 */
+.boundary[data-v-f45c750e] {
+  padding-left: 20px;
+}
+.container[data-v-f45c750e] {
+  margin-top: 20px;
+}
+
+/* 表格 */
+.table[data-v-f45c750e],
+.tree[data-v-f45c750e] {
+  display: inline-block;
+}
+.table[data-v-f45c750e] {
+  width: 70%;
+}
+.tree[data-v-f45c750e] {
+  width: 28%;
+  height: auto;
+  margin-left: 2%;
+  position: absolute;
+}
+
+/* 树形控件 */
+
+/* 分页样式 */
+.center-style[data-v-f45c750e] {
+  width: 70%;
+  text-align: right;
+}
+

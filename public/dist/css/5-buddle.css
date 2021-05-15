@@ -1,0 +1,29 @@
+/*! 最终版权归**所有 */
+
+.user-management[data-v-e7f4ae4e] {
+  box-sizing: border-box;
+  padding: 10px;
+}
+.title[data-v-e7f4ae4e] {
+  font-size: 20px;
+  font-weight: 700;
+  color: #333;
+  line-height: 50px;
+}
+
+/* 按钮边界 */
+.boundary[data-v-e7f4ae4e] {
+  padding-left: 20px;
+}
+.search[data-v-e7f4ae4e] {
+  margin-top: 5px;
+}
+.table[data-v-e7f4ae4e] {
+  margin-top: 20px;
+}
+
+/* 分页样式 */
+.center-style[data-v-e7f4ae4e] {
+  text-align: right;
+}
+

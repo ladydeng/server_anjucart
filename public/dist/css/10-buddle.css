@@ -1,0 +1,36 @@
+/*! 最终版权归**所有 */
+
+p[data-v-4e000dff] {
+  margin: 0;
+  line-height: 42px;
+}
+.excavator-management[data-v-4e000dff] {
+  box-sizing: border-box;
+  padding: 10px;
+}
+.title[data-v-4e000dff] {
+  font-size: 20px;
+  font-weight: 700;
+  color: #333;
+  line-height: 50px;
+}
+/* 按钮边界 */
+.boundary[data-v-4e000dff] {
+  padding-left: 20px;
+}
+.search[data-v-4e000dff] {
+  margin-top: 5px;
+}
+.table[data-v-4e000dff] {
+  margin-top: 20px;
+}
+
+/* 分页样式 */
+.center-style[data-v-4e000dff] {
+  text-align: right;
+}
+.search-btn[data-v-4e000dff] {
+  margin-top: 4px;
+  margin-left: 4px;
+}
+

@@ -1,0 +1,423 @@
+/*! 最终版权归**所有 */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* placeholder样式修改 */
+input[data-v-3d0054d8]::-webkit-input-placeholder {
+  /* padding-left: 20px; */
+  font-size: 24px;
+  font-family: Microsoft YaHei;
+  font-weight: 400;
+  color: #cccccc;
+}
+.form[data-v-3d0054d8] {
+  width: 710px;
+  /* width: 1400px; */
+  box-sizing: border-box;
+  /* margin-left: 33vw; */
+  margin: 0 auto;
+  margin-top: 130px;
+  /* padding-left: 32vw; */
+}
+input[data-v-3d0054d8] {
+  padding-left: 20px;
+  font-size: 24px;
+  color: #272e41;
+}
+input[data-v-3d0054d8]:focus {
+  outline: none;
+}
+.phone-label[data-v-3d0054d8],
+.code-label[data-v-3d0054d8],
+.new-password-label[data-v-3d0054d8],
+.confirm-password-label[data-v-3d0054d8] {
+  display: inline-block;
+  width: 150px;
+  /* width: 8vw; */
+  height: 70px;
+  text-align: center;
+  line-height: 70px;
+  background: #d2d2d2;
+
+  box-sizing: border-box;
+  border: 1px solid #cccccc;
+  border-radius: 10px 0px 0px 10px;
+
+  font-size: 24px;
+  font-family: Microsoft YaHei;
+  font-weight: 400;
+  color: #ffffff;
+
+  vertical-align: middle;
+  margin-bottom: 10px;
+}
+.phone-input[data-v-3d0054d8],
+.code-input[data-v-3d0054d8],
+.new-password-input[data-v-3d0054d8],
+.confirm-password-input[data-v-3d0054d8] {
+  display: inline-block;
+  width: 550px;
+  /* width: 30vw; */
+  height: 70px;
+  background: #ffffff;
+  border: 1px solid #cccccc;
+  border-radius: 0px 10px 10px 0px;
+
+  vertical-align: middle;
+  box-sizing: border-box;
+
+  margin-bottom: 10px;
+}
+.code-input[data-v-3d0054d8] {
+  width: 380px;
+  /* width: 21vw; */
+}
+.send-code[data-v-3d0054d8] {
+  width: 158px;
+  height: 70px;
+  background: #ff9600;
+  border-radius: 10px;
+
+  margin-left: 15px;
+  border: none;
+
+  font-size: 24px;
+  font-family: Microsoft YaHei;
+  font-weight: 400;
+  color: #ffffff;
+}
+.next-input[data-v-3d0054d8] {
+  width: 700px;
+  height: 70px;
+  background: #ff9600;
+  border-radius: 10px;
+  border: none;
+
+  font-size: 24px;
+  font-family: Microsoft YaHei;
+  font-weight: 400;
+  color: #ffffff;
+
+  margin-top: 70px;
+}
+
+/* 动态样式类 */
+/* .active {
+  background: #ff9600;
+} */
+
+/* 错误提示 */
+.err-text[data-v-3d0054d8] {
+  display: inline-block;
+  margin-left: 10px;
+
+  font-size: 20px;
+  font-family: Microsoft YaHei;
+  font-weight: 400;
+  color: red;
+}
+
+/* .progress {
+  width: 750px;
+  padding-top: 76px;
+  padding-bottom: 76px;
+  margin: 0 auto;
+  display: flex;
+} */
+
+/* .err-text {
+  height: 40px;
+  text-align: center;
+  margin-bottom: 10px;
+
+  font-size: 20px;
+  font-family: Microsoft YaHei;
+  font-weight: 400;
+  color: #999999;
+  line-height: 39px;
+}
+
+.badge {
+  width: 60px;
+  height: 60px;
+  background: #272e41;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 60px;
+
+  margin-left: 20px;
+  margin-top: 10px;
+} */
+
+/* .badge span {
+  font-size: 24px;
+  font-family: Microsoft YaHei;
+  font-weight: 400;
+  color: #ffffff;
+}
+
+.arrow {
+  width: 48px;
+  height: 25px;
+
+  margin-top: 30px;
+}
+
+.progress p {
+  font-size: 24px;
+  font-family: Microsoft YaHei;
+  font-weight: 400;
+  color: #272e41;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.badge-shallow {
+  background: #d2d2d2;
+} */
+

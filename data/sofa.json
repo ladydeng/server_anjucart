@@ -1,50 +1,6616 @@
-[
-    {
-        "src":"http://localhost:3000/img/sofa/sofa01.png",
-        "name":"新主题布艺沙发",
-        "describe":"极简经典设计 天然亲肤",
-        "price":"1350-7580"
-    },
-    {
-        "src":"http://localhost:3000/img/sofa/sofa02.png",
-        "name":"博得沙发",
-        "describe":"意大利全青皮 纯鹅绒填充",
-        "price":"4320-37399"
-    },
-    {
-        "src":"http://localhost:3000/img/sofa/sofa03.png",
-        "name":"桃源沙发",
-        "describe":"天然棉麻混纺",
-        "price":"2790-22280"
-    },
-    {
-        "src":"http://localhost:3000/img/sofa/sofa04.png",
-        "name":"光阴沙发",
-        "describe":"高级羊毛 亲肤舒适",
-        "price":"3160-8140"
-    },
-    {
-        "src":"http://localhost:3000/img/sofa/sofa05.png",
-        "name":"若邻休闲椅",
-        "describe":"环抱式设计",
-        "price":"3602"
-    },
-    {
-        "src":"http://localhost:3000/img/sofa/sofa06.png",
-        "name":"贝沙发",
-        "describe":"松木框架 进口棉麻",
-        "price":"860-8890"
-    },
-    {
-        "src":"http://localhost:3000/img/sofa/sofa07.png",
-        "name":"阿曼达沙发",
-        "describe":"简美风格 时尚大气",
-        "price":"4796"
-    },
-    {
-        "src":"http://localhost:3000/img/sofa/sofa08.png",
-        "name":"伯爵沙发",
-        "describe":"进口全青皮",
-        "price":"3160-8140"
-    }
-]
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "lat": 34.865558,
+            "lng": 113.655387,
+            "gpsTime": "2021-05-07 00:07:32",
+            "direction": 277,
+            "gpsSpeed": 12.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.865582,
+            "lng": 113.654756,
+            "gpsTime": "2021-05-07 00:08:12",
+            "direction": 283,
+            "gpsSpeed": 7.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.865956,
+            "lng": 113.654658,
+            "gpsTime": "2021-05-07 00:08:32",
+            "direction": 352,
+            "gpsSpeed": 10.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.866371,
+            "lng": 113.654622,
+            "gpsTime": "2021-05-07 00:08:42",
+            "direction": 358,
+            "gpsSpeed": 20.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.866944,
+            "lng": 113.654658,
+            "gpsTime": "2021-05-07 00:08:52",
+            "direction": 1,
+            "gpsSpeed": 23.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.867569,
+            "lng": 113.654702,
+            "gpsTime": "2021-05-07 00:09:02",
+            "direction": 359,
+            "gpsSpeed": 23.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.867778,
+            "lng": 113.654738,
+            "gpsTime": "2021-05-07 00:09:06",
+            "direction": 31,
+            "gpsSpeed": 20.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.867851,
+            "lng": 113.654818,
+            "gpsTime": "2021-05-07 00:09:08",
+            "direction": 54,
+            "gpsSpeed": 18.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.867882,
+            "lng": 113.654933,
+            "gpsTime": "2021-05-07 00:09:10",
+            "direction": 76,
+            "gpsSpeed": 20.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.867916,
+            "lng": 113.65568,
+            "gpsTime": "2021-05-07 00:09:20",
+            "direction": 89,
+            "gpsSpeed": 28.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.867947,
+            "lng": 113.65656,
+            "gpsTime": "2021-05-07 00:09:30",
+            "direction": 68,
+            "gpsSpeed": 22.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.868022,
+            "lng": 113.656658,
+            "gpsTime": "2021-05-07 00:09:32",
+            "direction": 39,
+            "gpsSpeed": 20.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.868153,
+            "lng": 113.656738,
+            "gpsTime": "2021-05-07 00:09:35",
+            "direction": 17,
+            "gpsSpeed": 18.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.868276,
+            "lng": 113.656738,
+            "gpsTime": "2021-05-07 00:09:38",
+            "direction": 357,
+            "gpsSpeed": 16.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.868793,
+            "lng": 113.656667,
+            "gpsTime": "2021-05-07 00:09:48",
+            "direction": 357,
+            "gpsSpeed": 27.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.869633,
+            "lng": 113.656711,
+            "gpsTime": "2021-05-07 00:09:58",
+            "direction": 359,
+            "gpsSpeed": 32.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.870538,
+            "lng": 113.656693,
+            "gpsTime": "2021-05-07 00:10:08",
+            "direction": 1,
+            "gpsSpeed": 38.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.871422,
+            "lng": 113.656711,
+            "gpsTime": "2021-05-07 00:10:18",
+            "direction": 0,
+            "gpsSpeed": 19.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.871864,
+            "lng": 113.65672,
+            "gpsTime": "2021-05-07 00:10:28",
+            "direction": 359,
+            "gpsSpeed": 17.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.872509,
+            "lng": 113.65672,
+            "gpsTime": "2021-05-07 00:10:38",
+            "direction": 359,
+            "gpsSpeed": 30.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.873376,
+            "lng": 113.656711,
+            "gpsTime": "2021-05-07 00:10:48",
+            "direction": 359,
+            "gpsSpeed": 36.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.874307,
+            "lng": 113.656693,
+            "gpsTime": "2021-05-07 00:10:58",
+            "direction": 2,
+            "gpsSpeed": 35.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.875138,
+            "lng": 113.656711,
+            "gpsTime": "2021-05-07 00:11:08",
+            "direction": 5,
+            "gpsSpeed": 25.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.875249,
+            "lng": 113.656738,
+            "gpsTime": "2021-05-07 00:11:10",
+            "direction": 26,
+            "gpsSpeed": 21.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.87532,
+            "lng": 113.656818,
+            "gpsTime": "2021-05-07 00:11:12",
+            "direction": 51,
+            "gpsSpeed": 20.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.875356,
+            "lng": 113.656933,
+            "gpsTime": "2021-05-07 00:11:14",
+            "direction": 79,
+            "gpsSpeed": 20.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.875331,
+            "lng": 113.657698,
+            "gpsTime": "2021-05-07 00:11:24",
+            "direction": 94,
+            "gpsSpeed": 31.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.875304,
+            "lng": 113.658773,
+            "gpsTime": "2021-05-07 00:11:34",
+            "direction": 91,
+            "gpsSpeed": 33.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.875278,
+            "lng": 113.659751,
+            "gpsTime": "2021-05-07 00:11:44",
+            "direction": 92,
+            "gpsSpeed": 29.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.875289,
+            "lng": 113.66048,
+            "gpsTime": "2021-05-07 00:11:54",
+            "direction": 96,
+            "gpsSpeed": 21.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.875244,
+            "lng": 113.661244,
+            "gpsTime": "2021-05-07 00:12:24",
+            "direction": 89,
+            "gpsSpeed": 12.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.875251,
+            "lng": 113.661591,
+            "gpsTime": "2021-05-07 00:12:34",
+            "direction": 91,
+            "gpsSpeed": 12.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.875271,
+            "lng": 113.662098,
+            "gpsTime": "2021-05-07 00:12:44",
+            "direction": 90,
+            "gpsSpeed": 23.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.875267,
+            "lng": 113.662942,
+            "gpsTime": "2021-05-07 00:12:54",
+            "direction": 92,
+            "gpsSpeed": 28.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.875287,
+            "lng": 113.663884,
+            "gpsTime": "2021-05-07 00:13:04",
+            "direction": 88,
+            "gpsSpeed": 29.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.875298,
+            "lng": 113.664453,
+            "gpsTime": "2021-05-07 00:13:14",
+            "direction": 83,
+            "gpsSpeed": 7.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.875287,
+            "lng": 113.664533,
+            "gpsTime": "2021-05-07 00:13:35",
+            "direction": 83,
+            "gpsSpeed": 0.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.875271,
+            "lng": 113.664862,
+            "gpsTime": "2021-05-07 00:13:44",
+            "direction": 86,
+            "gpsSpeed": 11.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.875278,
+            "lng": 113.665431,
+            "gpsTime": "2021-05-07 00:13:54",
+            "direction": 94,
+            "gpsSpeed": 21.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.875287,
+            "lng": 113.666276,
+            "gpsTime": "2021-05-07 00:14:04",
+            "direction": 89,
+            "gpsSpeed": 32.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.875287,
+            "lng": 113.667449,
+            "gpsTime": "2021-05-07 00:14:14",
+            "direction": 90,
+            "gpsSpeed": 37.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.875293,
+            "lng": 113.668293,
+            "gpsTime": "2021-05-07 00:14:24",
+            "direction": 94,
+            "gpsSpeed": 19.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.875271,
+            "lng": 113.668427,
+            "gpsTime": "2021-05-07 00:14:26",
+            "direction": 116,
+            "gpsSpeed": 19.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.875207,
+            "lng": 113.668524,
+            "gpsTime": "2021-05-07 00:14:28",
+            "direction": 138,
+            "gpsSpeed": 20.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.874644,
+            "lng": 113.668844,
+            "gpsTime": "2021-05-07 00:14:38",
+            "direction": 158,
+            "gpsSpeed": 29.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.873782,
+            "lng": 113.669191,
+            "gpsTime": "2021-05-07 00:14:48",
+            "direction": 163,
+            "gpsSpeed": 39.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.872967,
+            "lng": 113.669502,
+            "gpsTime": "2021-05-07 00:14:58",
+            "direction": 161,
+            "gpsSpeed": 20.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.873047,
+            "lng": 113.669689,
+            "gpsTime": "2021-05-07 00:15:18",
+            "direction": 339,
+            "gpsSpeed": 11.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.873498,
+            "lng": 113.669502,
+            "gpsTime": "2021-05-07 00:15:28",
+            "direction": 341,
+            "gpsSpeed": 22.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.874229,
+            "lng": 113.669218,
+            "gpsTime": "2021-05-07 00:15:38",
+            "direction": 341,
+            "gpsSpeed": 34.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.875142,
+            "lng": 113.668862,
+            "gpsTime": "2021-05-07 00:15:48",
+            "direction": 343,
+            "gpsSpeed": 42.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.876236,
+            "lng": 113.668471,
+            "gpsTime": "2021-05-07 00:15:58",
+            "direction": 344,
+            "gpsSpeed": 46.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.877278,
+            "lng": 113.668116,
+            "gpsTime": "2021-05-07 00:16:08",
+            "direction": 349,
+            "gpsSpeed": 40.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.8783,
+            "lng": 113.66808,
+            "gpsTime": "2021-05-07 00:16:18",
+            "direction": 5,
+            "gpsSpeed": 41.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.879249,
+            "lng": 113.668391,
+            "gpsTime": "2021-05-07 00:16:28",
+            "direction": 19,
+            "gpsSpeed": 37.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.880013,
+            "lng": 113.668818,
+            "gpsTime": "2021-05-07 00:16:38",
+            "direction": 30,
+            "gpsSpeed": 34.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.880567,
+            "lng": 113.669387,
+            "gpsTime": "2021-05-07 00:16:46",
+            "direction": 55,
+            "gpsSpeed": 37.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.88078,
+            "lng": 113.669902,
+            "gpsTime": "2021-05-07 00:16:51",
+            "direction": 75,
+            "gpsSpeed": 40.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.880924,
+            "lng": 113.671147,
+            "gpsTime": "2021-05-07 00:17:01",
+            "direction": 86,
+            "gpsSpeed": 41.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.880973,
+            "lng": 113.67248,
+            "gpsTime": "2021-05-07 00:17:11",
+            "direction": 90,
+            "gpsSpeed": 44.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.880956,
+            "lng": 113.673742,
+            "gpsTime": "2021-05-07 00:17:21",
+            "direction": 87,
+            "gpsSpeed": 42.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.880958,
+            "lng": 113.675076,
+            "gpsTime": "2021-05-07 00:17:31",
+            "direction": 90,
+            "gpsSpeed": 45.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.880967,
+            "lng": 113.676444,
+            "gpsTime": "2021-05-07 00:17:41",
+            "direction": 90,
+            "gpsSpeed": 44.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.880993,
+            "lng": 113.677804,
+            "gpsTime": "2021-05-07 00:17:51",
+            "direction": 88,
+            "gpsSpeed": 49.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.880993,
+            "lng": 113.679378,
+            "gpsTime": "2021-05-07 00:18:01",
+            "direction": 88,
+            "gpsSpeed": 53.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881078,
+            "lng": 113.680951,
+            "gpsTime": "2021-05-07 00:18:11",
+            "direction": 87,
+            "gpsSpeed": 53.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.88108,
+            "lng": 113.682569,
+            "gpsTime": "2021-05-07 00:18:21",
+            "direction": 90,
+            "gpsSpeed": 51.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881051,
+            "lng": 113.684178,
+            "gpsTime": "2021-05-07 00:18:31",
+            "direction": 88,
+            "gpsSpeed": 51.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881104,
+            "lng": 113.685591,
+            "gpsTime": "2021-05-07 00:18:41",
+            "direction": 89,
+            "gpsSpeed": 47.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881036,
+            "lng": 113.68704,
+            "gpsTime": "2021-05-07 00:18:51",
+            "direction": 92,
+            "gpsSpeed": 43.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.880909,
+            "lng": 113.688231,
+            "gpsTime": "2021-05-07 00:19:01",
+            "direction": 89,
+            "gpsSpeed": 25.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.880967,
+            "lng": 113.68856,
+            "gpsTime": "2021-05-07 00:19:06",
+            "direction": 57,
+            "gpsSpeed": 18.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.8811,
+            "lng": 113.688818,
+            "gpsTime": "2021-05-07 00:19:10",
+            "direction": 33,
+            "gpsSpeed": 20.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881227,
+            "lng": 113.688916,
+            "gpsTime": "2021-05-07 00:19:13",
+            "direction": 1,
+            "gpsSpeed": 19.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881698,
+            "lng": 113.688978,
+            "gpsTime": "2021-05-07 00:19:22",
+            "direction": 30,
+            "gpsSpeed": 22.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881776,
+            "lng": 113.689076,
+            "gpsTime": "2021-05-07 00:19:24",
+            "direction": 53,
+            "gpsSpeed": 21.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881836,
+            "lng": 113.689253,
+            "gpsTime": "2021-05-07 00:19:27",
+            "direction": 77,
+            "gpsSpeed": 21.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881829,
+            "lng": 113.690089,
+            "gpsTime": "2021-05-07 00:19:37",
+            "direction": 90,
+            "gpsSpeed": 33.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881793,
+            "lng": 113.691244,
+            "gpsTime": "2021-05-07 00:19:47",
+            "direction": 92,
+            "gpsSpeed": 38.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881733,
+            "lng": 113.692498,
+            "gpsTime": "2021-05-07 00:19:57",
+            "direction": 94,
+            "gpsSpeed": 39.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881656,
+            "lng": 113.693378,
+            "gpsTime": "2021-05-07 00:20:07",
+            "direction": 83,
+            "gpsSpeed": 18.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.88168,
+            "lng": 113.693476,
+            "gpsTime": "2021-05-07 00:20:09",
+            "direction": 56,
+            "gpsSpeed": 16.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881749,
+            "lng": 113.693556,
+            "gpsTime": "2021-05-07 00:20:11",
+            "direction": 31,
+            "gpsSpeed": 16.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881873,
+            "lng": 113.6936,
+            "gpsTime": "2021-05-07 00:20:14",
+            "direction": 10,
+            "gpsSpeed": 19.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.882411,
+            "lng": 113.693716,
+            "gpsTime": "2021-05-07 00:20:24",
+            "direction": 8,
+            "gpsSpeed": 26.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.883218,
+            "lng": 113.69392,
+            "gpsTime": "2021-05-07 00:20:34",
+            "direction": 11,
+            "gpsSpeed": 35.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.884147,
+            "lng": 113.694124,
+            "gpsTime": "2021-05-07 00:20:44",
+            "direction": 9,
+            "gpsSpeed": 39.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.885184,
+            "lng": 113.694302,
+            "gpsTime": "2021-05-07 00:20:54",
+            "direction": 7,
+            "gpsSpeed": 44.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.886307,
+            "lng": 113.694516,
+            "gpsTime": "2021-05-07 00:21:04",
+            "direction": 7,
+            "gpsSpeed": 42.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.887216,
+            "lng": 113.694711,
+            "gpsTime": "2021-05-07 00:21:14",
+            "direction": 9,
+            "gpsSpeed": 28.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.887978,
+            "lng": 113.694827,
+            "gpsTime": "2021-05-07 00:21:24",
+            "direction": 7,
+            "gpsSpeed": 28.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.888538,
+            "lng": 113.694924,
+            "gpsTime": "2021-05-07 00:21:34",
+            "direction": 1,
+            "gpsSpeed": 22.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.889133,
+            "lng": 113.69504,
+            "gpsTime": "2021-05-07 00:21:44",
+            "direction": 12,
+            "gpsSpeed": 20.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.88966,
+            "lng": 113.695182,
+            "gpsTime": "2021-05-07 00:21:54",
+            "direction": 13,
+            "gpsSpeed": 24.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.890347,
+            "lng": 113.695342,
+            "gpsTime": "2021-05-07 00:22:04",
+            "direction": 14,
+            "gpsSpeed": 28.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.890916,
+            "lng": 113.695511,
+            "gpsTime": "2021-05-07 00:22:14",
+            "direction": 21,
+            "gpsSpeed": 10.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.891107,
+            "lng": 113.695573,
+            "gpsTime": "2021-05-07 00:22:32",
+            "direction": 28,
+            "gpsSpeed": 0.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.892102,
+            "lng": 113.693831,
+            "gpsTime": "2021-05-07 01:37:25",
+            "direction": 280,
+            "gpsSpeed": 8.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.892211,
+            "lng": 113.693538,
+            "gpsTime": "2021-05-07 01:37:35",
+            "direction": 302,
+            "gpsSpeed": 12.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.892342,
+            "lng": 113.693013,
+            "gpsTime": "2021-05-07 01:37:55",
+            "direction": 291,
+            "gpsSpeed": 7.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.892438,
+            "lng": 113.692738,
+            "gpsTime": "2021-05-07 01:38:05",
+            "direction": 287,
+            "gpsSpeed": 8.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.892498,
+            "lng": 113.69248,
+            "gpsTime": "2021-05-07 01:38:15",
+            "direction": 292,
+            "gpsSpeed": 7.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.892709,
+            "lng": 113.692338,
+            "gpsTime": "2021-05-07 01:38:45",
+            "direction": 110,
+            "gpsSpeed": 12.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.892616,
+            "lng": 113.692711,
+            "gpsTime": "2021-05-07 01:38:55",
+            "direction": 105,
+            "gpsSpeed": 17.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.89246,
+            "lng": 113.693476,
+            "gpsTime": "2021-05-07 01:39:05",
+            "direction": 102,
+            "gpsSpeed": 35.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.892204,
+            "lng": 113.694516,
+            "gpsTime": "2021-05-07 01:39:15",
+            "direction": 107,
+            "gpsSpeed": 31.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.892102,
+            "lng": 113.694871,
+            "gpsTime": "2021-05-07 01:39:44",
+            "direction": 114,
+            "gpsSpeed": 0.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.891896,
+            "lng": 113.694951,
+            "gpsTime": "2021-05-07 01:43:05",
+            "direction": 142,
+            "gpsSpeed": 10.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.89172,
+            "lng": 113.695084,
+            "gpsTime": "2021-05-07 01:43:15",
+            "direction": 152,
+            "gpsSpeed": 11.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.891496,
+            "lng": 113.695298,
+            "gpsTime": "2021-05-07 01:43:25",
+            "direction": 125,
+            "gpsSpeed": 10.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.891342,
+            "lng": 113.695573,
+            "gpsTime": "2021-05-07 01:43:35",
+            "direction": 133,
+            "gpsSpeed": 7.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.89112,
+            "lng": 113.695511,
+            "gpsTime": "2021-05-07 01:43:50",
+            "direction": 202,
+            "gpsSpeed": 15.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.890747,
+            "lng": 113.69536,
+            "gpsTime": "2021-05-07 01:44:00",
+            "direction": 191,
+            "gpsSpeed": 18.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.890178,
+            "lng": 113.6952,
+            "gpsTime": "2021-05-07 01:44:10",
+            "direction": 193,
+            "gpsSpeed": 23.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.889789,
+            "lng": 113.695067,
+            "gpsTime": "2021-05-07 01:44:36",
+            "direction": 196,
+            "gpsSpeed": 0.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.889656,
+            "lng": 113.694996,
+            "gpsTime": "2021-05-07 01:44:40",
+            "direction": 191,
+            "gpsSpeed": 16.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.889176,
+            "lng": 113.694924,
+            "gpsTime": "2021-05-07 01:45:10",
+            "direction": 197,
+            "gpsSpeed": 9.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.889031,
+            "lng": 113.694907,
+            "gpsTime": "2021-05-07 02:52:40",
+            "direction": 182,
+            "gpsSpeed": 12.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.888616,
+            "lng": 113.694853,
+            "gpsTime": "2021-05-07 02:52:50",
+            "direction": 182,
+            "gpsSpeed": 15.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.888344,
+            "lng": 113.694827,
+            "gpsTime": "2021-05-07 02:53:00",
+            "direction": 187,
+            "gpsSpeed": 9.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.88794,
+            "lng": 113.694756,
+            "gpsTime": "2021-05-07 02:53:10",
+            "direction": 186,
+            "gpsSpeed": 21.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.887349,
+            "lng": 113.694622,
+            "gpsTime": "2021-05-07 02:53:20",
+            "direction": 190,
+            "gpsSpeed": 22.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.886909,
+            "lng": 113.694569,
+            "gpsTime": "2021-05-07 02:53:30",
+            "direction": 190,
+            "gpsSpeed": 21.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.886344,
+            "lng": 113.694436,
+            "gpsTime": "2021-05-07 02:53:40",
+            "direction": 190,
+            "gpsSpeed": 25.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.885662,
+            "lng": 113.694302,
+            "gpsTime": "2021-05-07 02:53:50",
+            "direction": 191,
+            "gpsSpeed": 27.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.884953,
+            "lng": 113.69416,
+            "gpsTime": "2021-05-07 02:54:00",
+            "direction": 188,
+            "gpsSpeed": 27.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.884267,
+            "lng": 113.694044,
+            "gpsTime": "2021-05-07 02:54:10",
+            "direction": 189,
+            "gpsSpeed": 28.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.883587,
+            "lng": 113.693893,
+            "gpsTime": "2021-05-07 02:54:20",
+            "direction": 189,
+            "gpsSpeed": 27.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.882873,
+            "lng": 113.693716,
+            "gpsTime": "2021-05-07 02:54:30",
+            "direction": 189,
+            "gpsSpeed": 27.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.882182,
+            "lng": 113.693591,
+            "gpsTime": "2021-05-07 02:54:40",
+            "direction": 189,
+            "gpsSpeed": 27.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881767,
+            "lng": 113.693493,
+            "gpsTime": "2021-05-07 02:54:47",
+            "direction": 210,
+            "gpsSpeed": 18.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881711,
+            "lng": 113.693431,
+            "gpsTime": "2021-05-07 02:54:49",
+            "direction": 236,
+            "gpsSpeed": 15.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881687,
+            "lng": 113.693324,
+            "gpsTime": "2021-05-07 02:54:51",
+            "direction": 258,
+            "gpsSpeed": 17.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881696,
+            "lng": 113.693013,
+            "gpsTime": "2021-05-07 02:54:56",
+            "direction": 282,
+            "gpsSpeed": 21.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881776,
+            "lng": 113.692267,
+            "gpsTime": "2021-05-07 02:55:06",
+            "direction": 272,
+            "gpsSpeed": 28.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881791,
+            "lng": 113.69144,
+            "gpsTime": "2021-05-07 02:55:16",
+            "direction": 269,
+            "gpsSpeed": 26.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881818,
+            "lng": 113.690578,
+            "gpsTime": "2021-05-07 02:55:26",
+            "direction": 271,
+            "gpsSpeed": 29.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.88182,
+            "lng": 113.689627,
+            "gpsTime": "2021-05-07 02:55:36",
+            "direction": 273,
+            "gpsSpeed": 26.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881798,
+            "lng": 113.689129,
+            "gpsTime": "2021-05-07 02:55:43",
+            "direction": 251,
+            "gpsSpeed": 22.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881738,
+            "lng": 113.689031,
+            "gpsTime": "2021-05-07 02:55:45",
+            "direction": 221,
+            "gpsSpeed": 21.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881602,
+            "lng": 113.688933,
+            "gpsTime": "2021-05-07 02:55:48",
+            "direction": 194,
+            "gpsSpeed": 22.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881158,
+            "lng": 113.688853,
+            "gpsTime": "2021-05-07 02:55:58",
+            "direction": 223,
+            "gpsSpeed": 12.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881107,
+            "lng": 113.688738,
+            "gpsTime": "2021-05-07 02:56:01",
+            "direction": 250,
+            "gpsSpeed": 15.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881107,
+            "lng": 113.688427,
+            "gpsTime": "2021-05-07 02:56:06",
+            "direction": 271,
+            "gpsSpeed": 24.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881104,
+            "lng": 113.687484,
+            "gpsTime": "2021-05-07 02:56:16",
+            "direction": 269,
+            "gpsSpeed": 35.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881118,
+            "lng": 113.686427,
+            "gpsTime": "2021-05-07 02:56:26",
+            "direction": 271,
+            "gpsSpeed": 35.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881116,
+            "lng": 113.685333,
+            "gpsTime": "2021-05-07 02:56:36",
+            "direction": 272,
+            "gpsSpeed": 35.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881118,
+            "lng": 113.684231,
+            "gpsTime": "2021-05-07 02:56:46",
+            "direction": 272,
+            "gpsSpeed": 35.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881111,
+            "lng": 113.683156,
+            "gpsTime": "2021-05-07 02:56:56",
+            "direction": 269,
+            "gpsSpeed": 35.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881218,
+            "lng": 113.67848,
+            "gpsTime": "2021-05-07 02:57:27",
+            "direction": 270,
+            "gpsSpeed": 56.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881229,
+            "lng": 113.676844,
+            "gpsTime": "2021-05-07 02:57:37",
+            "direction": 272,
+            "gpsSpeed": 57.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881229,
+            "lng": 113.675049,
+            "gpsTime": "2021-05-07 02:57:47",
+            "direction": 273,
+            "gpsSpeed": 56.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881233,
+            "lng": 113.67376,
+            "gpsTime": "2021-05-07 02:57:57",
+            "direction": 271,
+            "gpsSpeed": 29.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881176,
+            "lng": 113.673351,
+            "gpsTime": "2021-05-07 02:58:18",
+            "direction": 263,
+            "gpsSpeed": 0.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881229,
+            "lng": 113.673253,
+            "gpsTime": "2021-05-07 02:58:27",
+            "direction": 299,
+            "gpsSpeed": 7.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.88128,
+            "lng": 113.673164,
+            "gpsTime": "2021-05-07 02:58:30",
+            "direction": 278,
+            "gpsSpeed": 15.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881329,
+            "lng": 113.672116,
+            "gpsTime": "2021-05-07 02:58:40",
+            "direction": 274,
+            "gpsSpeed": 36.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881389,
+            "lng": 113.670658,
+            "gpsTime": "2021-05-07 02:58:50",
+            "direction": 273,
+            "gpsSpeed": 56.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.88166,
+            "lng": 113.669013,
+            "gpsTime": "2021-05-07 02:59:00",
+            "direction": 292,
+            "gpsSpeed": 54.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.882329,
+            "lng": 113.667653,
+            "gpsTime": "2021-05-07 02:59:10",
+            "direction": 291,
+            "gpsSpeed": 56.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.882451,
+            "lng": 113.666818,
+            "gpsTime": "2021-05-07 02:59:15",
+            "direction": 266,
+            "gpsSpeed": 56.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.882287,
+            "lng": 113.666187,
+            "gpsTime": "2021-05-07 02:59:19",
+            "direction": 242,
+            "gpsSpeed": 51.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.882038,
+            "lng": 113.665804,
+            "gpsTime": "2021-05-07 02:59:22",
+            "direction": 222,
+            "gpsSpeed": 51.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881573,
+            "lng": 113.665511,
+            "gpsTime": "2021-05-07 02:59:26",
+            "direction": 198,
+            "gpsSpeed": 52.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881184,
+            "lng": 113.665484,
+            "gpsTime": "2021-05-07 02:59:29",
+            "direction": 175,
+            "gpsSpeed": 56.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.880356,
+            "lng": 113.665813,
+            "gpsTime": "2021-05-07 02:59:35",
+            "direction": 153,
+            "gpsSpeed": 59.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.879082,
+            "lng": 113.666836,
+            "gpsTime": "2021-05-07 02:59:45",
+            "direction": 139,
+            "gpsSpeed": 59.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.878124,
+            "lng": 113.668187,
+            "gpsTime": "2021-05-07 02:59:55",
+            "direction": 129,
+            "gpsSpeed": 59.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.877151,
+            "lng": 113.669582,
+            "gpsTime": "2021-05-07 03:00:05",
+            "direction": 130,
+            "gpsSpeed": 62.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.876236,
+            "lng": 113.670942,
+            "gpsTime": "2021-05-07 03:00:15",
+            "direction": 131,
+            "gpsSpeed": 53.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.875324,
+            "lng": 113.672204,
+            "gpsTime": "2021-05-07 03:00:25",
+            "direction": 130,
+            "gpsSpeed": 60.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.874371,
+            "lng": 113.673564,
+            "gpsTime": "2021-05-07 03:00:35",
+            "direction": 129,
+            "gpsSpeed": 54.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.873516,
+            "lng": 113.674791,
+            "gpsTime": "2021-05-07 03:00:45",
+            "direction": 130,
+            "gpsSpeed": 49.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.872796,
+            "lng": 113.675813,
+            "gpsTime": "2021-05-07 03:00:55",
+            "direction": 131,
+            "gpsSpeed": 36.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.872371,
+            "lng": 113.6764,
+            "gpsTime": "2021-05-07 03:01:05",
+            "direction": 135,
+            "gpsSpeed": 9.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.872353,
+            "lng": 113.676427,
+            "gpsTime": "2021-05-07 03:01:24",
+            "direction": 123,
+            "gpsSpeed": 0.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.87228,
+            "lng": 113.676587,
+            "gpsTime": "2021-05-07 03:01:35",
+            "direction": 132,
+            "gpsSpeed": 9.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.871896,
+            "lng": 113.677067,
+            "gpsTime": "2021-05-07 03:01:45",
+            "direction": 131,
+            "gpsSpeed": 35.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.871151,
+            "lng": 113.678124,
+            "gpsTime": "2021-05-07 03:01:55",
+            "direction": 129,
+            "gpsSpeed": 48.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.870224,
+            "lng": 113.679476,
+            "gpsTime": "2021-05-07 03:02:05",
+            "direction": 129,
+            "gpsSpeed": 63.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.86914,
+            "lng": 113.68104,
+            "gpsTime": "2021-05-07 03:02:15",
+            "direction": 130,
+            "gpsSpeed": 67.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.86798,
+            "lng": 113.682533,
+            "gpsTime": "2021-05-07 03:02:25",
+            "direction": 136,
+            "gpsSpeed": 66.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.866631,
+            "lng": 113.683769,
+            "gpsTime": "2021-05-07 03:02:35",
+            "direction": 146,
+            "gpsSpeed": 67.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.865113,
+            "lng": 113.6848,
+            "gpsTime": "2021-05-07 03:02:45",
+            "direction": 155,
+            "gpsSpeed": 67.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.86354,
+            "lng": 113.685467,
+            "gpsTime": "2021-05-07 03:02:55",
+            "direction": 164,
+            "gpsSpeed": 67.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.861867,
+            "lng": 113.685822,
+            "gpsTime": "2021-05-07 03:03:05",
+            "direction": 174,
+            "gpsSpeed": 67.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.860196,
+            "lng": 113.685804,
+            "gpsTime": "2021-05-07 03:03:15",
+            "direction": 182,
+            "gpsSpeed": 70.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.858433,
+            "lng": 113.685787,
+            "gpsTime": "2021-05-07 03:03:25",
+            "direction": 179,
+            "gpsSpeed": 69.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.856667,
+            "lng": 113.685858,
+            "gpsTime": "2021-05-07 03:03:35",
+            "direction": 179,
+            "gpsSpeed": 73.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.854869,
+            "lng": 113.685858,
+            "gpsTime": "2021-05-07 03:03:45",
+            "direction": 180,
+            "gpsSpeed": 69.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.853104,
+            "lng": 113.685707,
+            "gpsTime": "2021-05-07 03:03:55",
+            "direction": 185,
+            "gpsSpeed": 70.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.851449,
+            "lng": 113.685618,
+            "gpsTime": "2021-05-07 03:04:05",
+            "direction": 178,
+            "gpsSpeed": 57.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.850109,
+            "lng": 113.685618,
+            "gpsTime": "2021-05-07 03:04:15",
+            "direction": 179,
+            "gpsSpeed": 52.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.848771,
+            "lng": 113.685591,
+            "gpsTime": "2021-05-07 03:04:25",
+            "direction": 180,
+            "gpsSpeed": 54.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.847304,
+            "lng": 113.685644,
+            "gpsTime": "2021-05-07 03:04:35",
+            "direction": 178,
+            "gpsSpeed": 59.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.84576,
+            "lng": 113.685662,
+            "gpsTime": "2021-05-07 03:04:45",
+            "direction": 179,
+            "gpsSpeed": 61.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.84418,
+            "lng": 113.685644,
+            "gpsTime": "2021-05-07 03:04:55",
+            "direction": 183,
+            "gpsSpeed": 65.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.842713,
+            "lng": 113.685573,
+            "gpsTime": "2021-05-07 03:05:05",
+            "direction": 178,
+            "gpsSpeed": 52.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.841838,
+            "lng": 113.685529,
+            "gpsTime": "2021-05-07 03:05:15",
+            "direction": 206,
+            "gpsSpeed": 22.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.841762,
+            "lng": 113.685431,
+            "gpsTime": "2021-05-07 03:05:17",
+            "direction": 237,
+            "gpsSpeed": 21.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.841736,
+            "lng": 113.685289,
+            "gpsTime": "2021-05-07 03:05:19",
+            "direction": 264,
+            "gpsSpeed": 22.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.841864,
+            "lng": 113.684444,
+            "gpsTime": "2021-05-07 03:05:29",
+            "direction": 280,
+            "gpsSpeed": 37.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.842067,
+            "lng": 113.683004,
+            "gpsTime": "2021-05-07 03:05:39",
+            "direction": 280,
+            "gpsSpeed": 56.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.842278,
+            "lng": 113.681351,
+            "gpsTime": "2021-05-07 03:05:49",
+            "direction": 279,
+            "gpsSpeed": 52.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.842431,
+            "lng": 113.680107,
+            "gpsTime": "2021-05-07 03:05:59",
+            "direction": 279,
+            "gpsSpeed": 20.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.8424,
+            "lng": 113.679529,
+            "gpsTime": "2021-05-07 03:06:19",
+            "direction": 206,
+            "gpsSpeed": 8.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.842171,
+            "lng": 113.679378,
+            "gpsTime": "2021-05-07 03:06:29",
+            "direction": 185,
+            "gpsSpeed": 10.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.841838,
+            "lng": 113.67936,
+            "gpsTime": "2021-05-07 03:06:39",
+            "direction": 186,
+            "gpsSpeed": 12.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.84142,
+            "lng": 113.67936,
+            "gpsTime": "2021-05-07 03:06:49",
+            "direction": 180,
+            "gpsSpeed": 18.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840951,
+            "lng": 113.679342,
+            "gpsTime": "2021-05-07 03:06:59",
+            "direction": 181,
+            "gpsSpeed": 15.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840736,
+            "lng": 113.679333,
+            "gpsTime": "2021-05-07 03:07:47",
+            "direction": 177,
+            "gpsSpeed": 0.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840698,
+            "lng": 113.679378,
+            "gpsTime": "2021-05-07 03:08:09",
+            "direction": 175,
+            "gpsSpeed": 11.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840493,
+            "lng": 113.679218,
+            "gpsTime": "2021-05-07 03:08:19",
+            "direction": 272,
+            "gpsSpeed": 10.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840531,
+            "lng": 113.678951,
+            "gpsTime": "2021-05-07 03:08:29",
+            "direction": 277,
+            "gpsSpeed": 11.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.8406,
+            "lng": 113.678596,
+            "gpsTime": "2021-05-07 03:08:39",
+            "direction": 276,
+            "gpsSpeed": 13.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840622,
+            "lng": 113.678151,
+            "gpsTime": "2021-05-07 03:08:49",
+            "direction": 272,
+            "gpsSpeed": 14.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840702,
+            "lng": 113.677769,
+            "gpsTime": "2021-05-07 03:08:59",
+            "direction": 276,
+            "gpsSpeed": 11.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840762,
+            "lng": 113.677422,
+            "gpsTime": "2021-05-07 03:09:09",
+            "direction": 285,
+            "gpsSpeed": 8.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840798,
+            "lng": 113.677067,
+            "gpsTime": "2021-05-07 03:09:19",
+            "direction": 278,
+            "gpsSpeed": 13.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840869,
+            "lng": 113.676631,
+            "gpsTime": "2021-05-07 03:09:29",
+            "direction": 274,
+            "gpsSpeed": 12.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840931,
+            "lng": 113.676258,
+            "gpsTime": "2021-05-07 03:09:39",
+            "direction": 281,
+            "gpsSpeed": 14.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840984,
+            "lng": 113.675796,
+            "gpsTime": "2021-05-07 03:09:49",
+            "direction": 291,
+            "gpsSpeed": 14.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.841058,
+            "lng": 113.675378,
+            "gpsTime": "2021-05-07 03:09:59",
+            "direction": 281,
+            "gpsSpeed": 14.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.841113,
+            "lng": 113.674907,
+            "gpsTime": "2021-05-07 03:10:09",
+            "direction": 278,
+            "gpsSpeed": 13.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840958,
+            "lng": 113.674649,
+            "gpsTime": "2021-05-07 03:10:19",
+            "direction": 182,
+            "gpsSpeed": 10.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840996,
+            "lng": 113.674631,
+            "gpsTime": "2021-05-07 03:10:54",
+            "direction": 336,
+            "gpsSpeed": 0.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840816,
+            "lng": 113.674791,
+            "gpsTime": "2021-05-07 03:11:19",
+            "direction": 112,
+            "gpsSpeed": 12.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840596,
+            "lng": 113.675093,
+            "gpsTime": "2021-05-07 03:11:29",
+            "direction": 145,
+            "gpsSpeed": 15.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840244,
+            "lng": 113.675342,
+            "gpsTime": "2021-05-07 03:11:39",
+            "direction": 153,
+            "gpsSpeed": 14.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.839889,
+            "lng": 113.675396,
+            "gpsTime": "2021-05-07 03:11:49",
+            "direction": 186,
+            "gpsSpeed": 14.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.839469,
+            "lng": 113.67528,
+            "gpsTime": "2021-05-07 03:12:48",
+            "direction": 227,
+            "gpsSpeed": 0.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.839511,
+            "lng": 113.675378,
+            "gpsTime": "2021-05-07 03:14:39",
+            "direction": 9,
+            "gpsSpeed": 7.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.839782,
+            "lng": 113.675396,
+            "gpsTime": "2021-05-07 03:14:49",
+            "direction": 359,
+            "gpsSpeed": 9.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.8401,
+            "lng": 113.675422,
+            "gpsTime": "2021-05-07 03:14:59",
+            "direction": 355,
+            "gpsSpeed": 15.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840251,
+            "lng": 113.67568,
+            "gpsTime": "2021-05-07 03:15:19",
+            "direction": 93,
+            "gpsSpeed": 12.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840276,
+            "lng": 113.676044,
+            "gpsTime": "2021-05-07 03:15:29",
+            "direction": 84,
+            "gpsSpeed": 9.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840244,
+            "lng": 113.6764,
+            "gpsTime": "2021-05-07 03:16:30",
+            "direction": 118,
+            "gpsSpeed": 0.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840653,
+            "lng": 113.677769,
+            "gpsTime": "2021-05-07 03:47:39",
+            "direction": 101,
+            "gpsSpeed": 7.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840633,
+            "lng": 113.677991,
+            "gpsTime": "2021-05-07 03:47:49",
+            "direction": 90,
+            "gpsSpeed": 7.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840622,
+            "lng": 113.678249,
+            "gpsTime": "2021-05-07 03:47:59",
+            "direction": 82,
+            "gpsSpeed": 7.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840602,
+            "lng": 113.67848,
+            "gpsTime": "2021-05-07 03:48:09",
+            "direction": 95,
+            "gpsSpeed": 7.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840516,
+            "lng": 113.678942,
+            "gpsTime": "2021-05-07 03:48:29",
+            "direction": 93,
+            "gpsSpeed": 7.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840649,
+            "lng": 113.679396,
+            "gpsTime": "2021-05-07 03:48:59",
+            "direction": 6,
+            "gpsSpeed": 7.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840847,
+            "lng": 113.679378,
+            "gpsTime": "2021-05-07 03:49:09",
+            "direction": 0,
+            "gpsSpeed": 10.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.841113,
+            "lng": 113.679413,
+            "gpsTime": "2021-05-07 03:49:19",
+            "direction": 355,
+            "gpsSpeed": 11.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.841427,
+            "lng": 113.679396,
+            "gpsTime": "2021-05-07 03:49:29",
+            "direction": 1,
+            "gpsSpeed": 12.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.841671,
+            "lng": 113.679413,
+            "gpsTime": "2021-05-07 03:49:39",
+            "direction": 6,
+            "gpsSpeed": 7.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.841911,
+            "lng": 113.679458,
+            "gpsTime": "2021-05-07 03:50:06",
+            "direction": 3,
+            "gpsSpeed": 0.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.842362,
+            "lng": 113.680062,
+            "gpsTime": "2021-05-07 03:52:09",
+            "direction": 91,
+            "gpsSpeed": 10.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.842338,
+            "lng": 113.680373,
+            "gpsTime": "2021-05-07 03:52:19",
+            "direction": 103,
+            "gpsSpeed": 11.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.842284,
+            "lng": 113.680924,
+            "gpsTime": "2021-05-07 03:52:29",
+            "direction": 98,
+            "gpsSpeed": 21.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.842178,
+            "lng": 113.681751,
+            "gpsTime": "2021-05-07 03:52:39",
+            "direction": 98,
+            "gpsSpeed": 31.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.841976,
+            "lng": 113.682862,
+            "gpsTime": "2021-05-07 03:52:49",
+            "direction": 99,
+            "gpsSpeed": 35.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.841847,
+            "lng": 113.683804,
+            "gpsTime": "2021-05-07 03:52:59",
+            "direction": 98,
+            "gpsSpeed": 29.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.841747,
+            "lng": 113.684551,
+            "gpsTime": "2021-05-07 03:53:09",
+            "direction": 99,
+            "gpsSpeed": 22.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.841691,
+            "lng": 113.685156,
+            "gpsTime": "2021-05-07 03:53:19",
+            "direction": 97,
+            "gpsSpeed": 18.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.841553,
+            "lng": 113.685564,
+            "gpsTime": "2021-05-07 03:53:29",
+            "direction": 149,
+            "gpsSpeed": 13.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.841436,
+            "lng": 113.685564,
+            "gpsTime": "2021-05-07 03:53:32",
+            "direction": 178,
+            "gpsSpeed": 15.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.84092,
+            "lng": 113.685573,
+            "gpsTime": "2021-05-07 03:53:42",
+            "direction": 179,
+            "gpsSpeed": 24.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840298,
+            "lng": 113.685573,
+            "gpsTime": "2021-05-07 03:53:52",
+            "direction": 174,
+            "gpsSpeed": 24.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.839596,
+            "lng": 113.685644,
+            "gpsTime": "2021-05-07 03:54:02",
+            "direction": 173,
+            "gpsSpeed": 33.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.838673,
+            "lng": 113.685707,
+            "gpsTime": "2021-05-07 03:54:12",
+            "direction": 172,
+            "gpsSpeed": 35.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.837749,
+            "lng": 113.685876,
+            "gpsTime": "2021-05-07 03:54:22",
+            "direction": 172,
+            "gpsSpeed": 40.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.836704,
+            "lng": 113.686151,
+            "gpsTime": "2021-05-07 03:54:32",
+            "direction": 166,
+            "gpsSpeed": 43.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.835778,
+            "lng": 113.686453,
+            "gpsTime": "2021-05-07 03:54:42",
+            "direction": 157,
+            "gpsSpeed": 26.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.835582,
+            "lng": 113.686569,
+            "gpsTime": "2021-05-07 03:54:46",
+            "direction": 137,
+            "gpsSpeed": 16.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.83582,
+            "lng": 113.686942,
+            "gpsTime": "2021-05-07 03:55:06",
+            "direction": 6,
+            "gpsSpeed": 9.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.836124,
+            "lng": 113.68688,
+            "gpsTime": "2021-05-07 03:55:16",
+            "direction": 354,
+            "gpsSpeed": 13.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.836609,
+            "lng": 113.68672,
+            "gpsTime": "2021-05-07 03:55:26",
+            "direction": 349,
+            "gpsSpeed": 23.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.837353,
+            "lng": 113.686596,
+            "gpsTime": "2021-05-07 03:55:36",
+            "direction": 351,
+            "gpsSpeed": 32.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.838291,
+            "lng": 113.686427,
+            "gpsTime": "2021-05-07 03:55:46",
+            "direction": 353,
+            "gpsSpeed": 42.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.839424,
+            "lng": 113.686267,
+            "gpsTime": "2021-05-07 03:55:56",
+            "direction": 355,
+            "gpsSpeed": 47.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840591,
+            "lng": 113.686178,
+            "gpsTime": "2021-05-07 03:56:06",
+            "direction": 355,
+            "gpsSpeed": 48.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.841851,
+            "lng": 113.686116,
+            "gpsTime": "2021-05-07 03:56:16",
+            "direction": 358,
+            "gpsSpeed": 54.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.843278,
+            "lng": 113.686213,
+            "gpsTime": "2021-05-07 03:56:26",
+            "direction": 2,
+            "gpsSpeed": 53.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.844433,
+            "lng": 113.686169,
+            "gpsTime": "2021-05-07 03:56:36",
+            "direction": 358,
+            "gpsSpeed": 42.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.845558,
+            "lng": 113.686196,
+            "gpsTime": "2021-05-07 03:56:46",
+            "direction": 359,
+            "gpsSpeed": 46.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.84674,
+            "lng": 113.686196,
+            "gpsTime": "2021-05-07 03:56:56",
+            "direction": 0,
+            "gpsSpeed": 47.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.847896,
+            "lng": 113.686169,
+            "gpsTime": "2021-05-07 03:57:06",
+            "direction": 359,
+            "gpsSpeed": 47.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.849136,
+            "lng": 113.686178,
+            "gpsTime": "2021-05-07 03:57:16",
+            "direction": 2,
+            "gpsSpeed": 54.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.850529,
+            "lng": 113.686169,
+            "gpsTime": "2021-05-07 03:57:26",
+            "direction": 359,
+            "gpsSpeed": 53.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.851849,
+            "lng": 113.686178,
+            "gpsTime": "2021-05-07 03:57:36",
+            "direction": 0,
+            "gpsSpeed": 51.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.853184,
+            "lng": 113.686196,
+            "gpsTime": "2021-05-07 03:57:46",
+            "direction": 0,
+            "gpsSpeed": 54.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.854553,
+            "lng": 113.686213,
+            "gpsTime": "2021-05-07 03:57:56",
+            "direction": 0,
+            "gpsSpeed": 53.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.85566,
+            "lng": 113.686276,
+            "gpsTime": "2021-05-07 03:58:06",
+            "direction": 2,
+            "gpsSpeed": 37.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.856484,
+            "lng": 113.686267,
+            "gpsTime": "2021-05-07 03:58:16",
+            "direction": 359,
+            "gpsSpeed": 31.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.857291,
+            "lng": 113.686231,
+            "gpsTime": "2021-05-07 03:58:26",
+            "direction": 359,
+            "gpsSpeed": 34.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.858204,
+            "lng": 113.686178,
+            "gpsTime": "2021-05-07 03:58:36",
+            "direction": 359,
+            "gpsSpeed": 41.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.859376,
+            "lng": 113.686213,
+            "gpsTime": "2021-05-07 03:58:46",
+            "direction": 359,
+            "gpsSpeed": 50.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.860698,
+            "lng": 113.686231,
+            "gpsTime": "2021-05-07 03:58:56",
+            "direction": 0,
+            "gpsSpeed": 53.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.862042,
+            "lng": 113.68608,
+            "gpsTime": "2021-05-07 03:59:06",
+            "direction": 353,
+            "gpsSpeed": 56.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.863453,
+            "lng": 113.685787,
+            "gpsTime": "2021-05-07 03:59:16",
+            "direction": 345,
+            "gpsSpeed": 57.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.864822,
+            "lng": 113.685271,
+            "gpsTime": "2021-05-07 03:59:26",
+            "direction": 339,
+            "gpsSpeed": 57.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.866067,
+            "lng": 113.684489,
+            "gpsTime": "2021-05-07 03:59:36",
+            "direction": 331,
+            "gpsSpeed": 55.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.867202,
+            "lng": 113.683609,
+            "gpsTime": "2021-05-07 03:59:46",
+            "direction": 323,
+            "gpsSpeed": 50.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.868224,
+            "lng": 113.682631,
+            "gpsTime": "2021-05-07 03:59:56",
+            "direction": 317,
+            "gpsSpeed": 54.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.869178,
+            "lng": 113.681369,
+            "gpsTime": "2021-05-07 04:00:06",
+            "direction": 311,
+            "gpsSpeed": 57.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.87016,
+            "lng": 113.680027,
+            "gpsTime": "2021-05-07 04:00:16",
+            "direction": 311,
+            "gpsSpeed": 58.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.871087,
+            "lng": 113.678756,
+            "gpsTime": "2021-05-07 04:00:26",
+            "direction": 310,
+            "gpsSpeed": 54.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.871571,
+            "lng": 113.678062,
+            "gpsTime": "2021-05-07 04:00:36",
+            "direction": 310,
+            "gpsSpeed": 14.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.871667,
+            "lng": 113.677929,
+            "gpsTime": "2021-05-07 04:00:52",
+            "direction": 310,
+            "gpsSpeed": 0.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.871929,
+            "lng": 113.677609,
+            "gpsTime": "2021-05-07 04:01:46",
+            "direction": 315,
+            "gpsSpeed": 15.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.872238,
+            "lng": 113.677129,
+            "gpsTime": "2021-05-07 04:01:56",
+            "direction": 309,
+            "gpsSpeed": 23.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.872631,
+            "lng": 113.676587,
+            "gpsTime": "2021-05-07 04:02:06",
+            "direction": 312,
+            "gpsSpeed": 30.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.873222,
+            "lng": 113.675769,
+            "gpsTime": "2021-05-07 04:02:16",
+            "direction": 310,
+            "gpsSpeed": 37.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.87392,
+            "lng": 113.674773,
+            "gpsTime": "2021-05-07 04:02:26",
+            "direction": 310,
+            "gpsSpeed": 48.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.87474,
+            "lng": 113.673627,
+            "gpsTime": "2021-05-07 04:02:36",
+            "direction": 311,
+            "gpsSpeed": 49.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.875533,
+            "lng": 113.672462,
+            "gpsTime": "2021-05-07 04:02:46",
+            "direction": 312,
+            "gpsSpeed": 47.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.876262,
+            "lng": 113.671484,
+            "gpsTime": "2021-05-07 04:02:56",
+            "direction": 312,
+            "gpsSpeed": 40.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.876884,
+            "lng": 113.670622,
+            "gpsTime": "2021-05-07 04:03:06",
+            "direction": 311,
+            "gpsSpeed": 35.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.877484,
+            "lng": 113.66984,
+            "gpsTime": "2021-05-07 04:03:16",
+            "direction": 310,
+            "gpsSpeed": 33.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.878009,
+            "lng": 113.669093,
+            "gpsTime": "2021-05-07 04:03:26",
+            "direction": 310,
+            "gpsSpeed": 30.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.878502,
+            "lng": 113.668604,
+            "gpsTime": "2021-05-07 04:03:34",
+            "direction": 333,
+            "gpsSpeed": 33.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.878933,
+            "lng": 113.668489,
+            "gpsTime": "2021-05-07 04:03:39",
+            "direction": 359,
+            "gpsSpeed": 37.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.879776,
+            "lng": 113.668702,
+            "gpsTime": "2021-05-07 04:03:48",
+            "direction": 19,
+            "gpsSpeed": 36.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.880302,
+            "lng": 113.669076,
+            "gpsTime": "2021-05-07 04:03:55",
+            "direction": 40,
+            "gpsSpeed": 34.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.88068,
+            "lng": 113.669644,
+            "gpsTime": "2021-05-07 04:04:02",
+            "direction": 60,
+            "gpsSpeed": 33.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.880836,
+            "lng": 113.670284,
+            "gpsTime": "2021-05-07 04:04:08",
+            "direction": 81,
+            "gpsSpeed": 36.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.88092,
+            "lng": 113.671307,
+            "gpsTime": "2021-05-07 04:04:18",
+            "direction": 87,
+            "gpsSpeed": 34.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.880962,
+            "lng": 113.67248,
+            "gpsTime": "2021-05-07 04:04:28",
+            "direction": 89,
+            "gpsSpeed": 42.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.880989,
+            "lng": 113.673787,
+            "gpsTime": "2021-05-07 04:04:38",
+            "direction": 88,
+            "gpsSpeed": 41.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881031,
+            "lng": 113.675049,
+            "gpsTime": "2021-05-07 04:04:48",
+            "direction": 86,
+            "gpsSpeed": 43.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881004,
+            "lng": 113.676444,
+            "gpsTime": "2021-05-07 04:04:58",
+            "direction": 95,
+            "gpsSpeed": 39.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.880971,
+            "lng": 113.677404,
+            "gpsTime": "2021-05-07 04:05:08",
+            "direction": 88,
+            "gpsSpeed": 31.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.880984,
+            "lng": 113.6784,
+            "gpsTime": "2021-05-07 04:05:18",
+            "direction": 90,
+            "gpsSpeed": 34.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.880973,
+            "lng": 113.679493,
+            "gpsTime": "2021-05-07 04:05:28",
+            "direction": 91,
+            "gpsSpeed": 36.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.880978,
+            "lng": 113.680747,
+            "gpsTime": "2021-05-07 04:05:38",
+            "direction": 89,
+            "gpsSpeed": 37.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.880929,
+            "lng": 113.681769,
+            "gpsTime": "2021-05-07 04:05:48",
+            "direction": 87,
+            "gpsSpeed": 31.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.880947,
+            "lng": 113.682453,
+            "gpsTime": "2021-05-07 04:05:58",
+            "direction": 72,
+            "gpsSpeed": 15.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881053,
+            "lng": 113.682587,
+            "gpsTime": "2021-05-07 04:06:02",
+            "direction": 24,
+            "gpsSpeed": 15.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881227,
+            "lng": 113.682604,
+            "gpsTime": "2021-05-07 04:06:06",
+            "direction": 352,
+            "gpsSpeed": 15.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881756,
+            "lng": 113.682471,
+            "gpsTime": "2021-05-07 04:06:16",
+            "direction": 331,
+            "gpsSpeed": 20.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881862,
+            "lng": 113.682347,
+            "gpsTime": "2021-05-07 04:06:19",
+            "direction": 304,
+            "gpsSpeed": 19.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881924,
+            "lng": 113.68216,
+            "gpsTime": "2021-05-07 04:06:22",
+            "direction": 281,
+            "gpsSpeed": 21.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881953,
+            "lng": 113.68144,
+            "gpsTime": "2021-05-07 04:06:32",
+            "direction": 271,
+            "gpsSpeed": 27.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881958,
+            "lng": 113.680533,
+            "gpsTime": "2021-05-07 04:06:42",
+            "direction": 270,
+            "gpsSpeed": 29.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881958,
+            "lng": 113.679591,
+            "gpsTime": "2021-05-07 04:06:52",
+            "direction": 270,
+            "gpsSpeed": 32.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.88198,
+            "lng": 113.678453,
+            "gpsTime": "2021-05-07 04:07:02",
+            "direction": 270,
+            "gpsSpeed": 39.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.882004,
+            "lng": 113.677244,
+            "gpsTime": "2021-05-07 04:07:12",
+            "direction": 271,
+            "gpsSpeed": 34.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.882064,
+            "lng": 113.676827,
+            "gpsTime": "2021-05-07 04:07:17",
+            "direction": 302,
+            "gpsSpeed": 26.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.882153,
+            "lng": 113.676729,
+            "gpsTime": "2021-05-07 04:07:19",
+            "direction": 328,
+            "gpsSpeed": 23.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.882271,
+            "lng": 113.676676,
+            "gpsTime": "2021-05-07 04:07:21",
+            "direction": 352,
+            "gpsSpeed": 24.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.883042,
+            "lng": 113.676711,
+            "gpsTime": "2021-05-07 04:07:31",
+            "direction": 358,
+            "gpsSpeed": 35.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.883927,
+            "lng": 113.676711,
+            "gpsTime": "2021-05-07 04:07:41",
+            "direction": 0,
+            "gpsSpeed": 35.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.884742,
+            "lng": 113.676613,
+            "gpsTime": "2021-05-07 04:07:51",
+            "direction": 336,
+            "gpsSpeed": 28.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.884896,
+            "lng": 113.676471,
+            "gpsTime": "2021-05-07 04:07:54",
+            "direction": 308,
+            "gpsSpeed": 26.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.884971,
+            "lng": 113.67624,
+            "gpsTime": "2021-05-07 04:07:57",
+            "direction": 286,
+            "gpsSpeed": 26.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.885007,
+            "lng": 113.675307,
+            "gpsTime": "2021-05-07 04:08:07",
+            "direction": 269,
+            "gpsSpeed": 34.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.885002,
+            "lng": 113.674284,
+            "gpsTime": "2021-05-07 04:08:17",
+            "direction": 269,
+            "gpsSpeed": 31.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.885002,
+            "lng": 113.673369,
+            "gpsTime": "2021-05-07 04:08:27",
+            "direction": 270,
+            "gpsSpeed": 25.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.885002,
+            "lng": 113.673111,
+            "gpsTime": "2021-05-07 04:08:52",
+            "direction": 271,
+            "gpsSpeed": 0.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.885007,
+            "lng": 113.673067,
+            "gpsTime": "2021-05-07 04:09:07",
+            "direction": 271,
+            "gpsSpeed": 9.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.885007,
+            "lng": 113.67272,
+            "gpsTime": "2021-05-07 04:09:17",
+            "direction": 268,
+            "gpsSpeed": 11.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.885002,
+            "lng": 113.672169,
+            "gpsTime": "2021-05-07 04:09:27",
+            "direction": 271,
+            "gpsSpeed": 21.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.885007,
+            "lng": 113.671458,
+            "gpsTime": "2021-05-07 04:09:37",
+            "direction": 269,
+            "gpsSpeed": 20.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.885204,
+            "lng": 113.671076,
+            "gpsTime": "2021-05-07 04:09:57",
+            "direction": 4,
+            "gpsSpeed": 7.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.885402,
+            "lng": 113.671111,
+            "gpsTime": "2021-05-07 04:10:07",
+            "direction": 5,
+            "gpsSpeed": 9.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.885582,
+            "lng": 113.671244,
+            "gpsTime": "2021-05-07 04:10:33",
+            "direction": 48,
+            "gpsSpeed": 0.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.885536,
+            "lng": 113.671644,
+            "gpsTime": "2021-05-07 04:22:35",
+            "direction": 279,
+            "gpsSpeed": 15.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.885616,
+            "lng": 113.671227,
+            "gpsTime": "2021-05-07 04:22:45",
+            "direction": 281,
+            "gpsSpeed": 9.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.885444,
+            "lng": 113.671058,
+            "gpsTime": "2021-05-07 04:22:55",
+            "direction": 182,
+            "gpsSpeed": 14.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.885089,
+            "lng": 113.671031,
+            "gpsTime": "2021-05-07 04:23:05",
+            "direction": 165,
+            "gpsSpeed": 14.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.885024,
+            "lng": 113.671076,
+            "gpsTime": "2021-05-07 04:23:07",
+            "direction": 136,
+            "gpsSpeed": 15.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.884987,
+            "lng": 113.671173,
+            "gpsTime": "2021-05-07 04:23:09",
+            "direction": 112,
+            "gpsSpeed": 18.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.884964,
+            "lng": 113.671484,
+            "gpsTime": "2021-05-07 04:23:13",
+            "direction": 90,
+            "gpsSpeed": 26.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.884938,
+            "lng": 113.672436,
+            "gpsTime": "2021-05-07 04:23:23",
+            "direction": 95,
+            "gpsSpeed": 34.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.884896,
+            "lng": 113.673298,
+            "gpsTime": "2021-05-07 04:23:33",
+            "direction": 91,
+            "gpsSpeed": 34.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.884891,
+            "lng": 113.674427,
+            "gpsTime": "2021-05-07 04:23:43",
+            "direction": 90,
+            "gpsSpeed": 37.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.8849,
+            "lng": 113.675618,
+            "gpsTime": "2021-05-07 04:23:53",
+            "direction": 90,
+            "gpsSpeed": 38.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.884864,
+            "lng": 113.676427,
+            "gpsTime": "2021-05-07 04:24:01",
+            "direction": 112,
+            "gpsSpeed": 28.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.884789,
+            "lng": 113.676542,
+            "gpsTime": "2021-05-07 04:24:03",
+            "direction": 138,
+            "gpsSpeed": 24.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.884682,
+            "lng": 113.676596,
+            "gpsTime": "2021-05-07 04:24:05",
+            "direction": 169,
+            "gpsSpeed": 25.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.883831,
+            "lng": 113.676631,
+            "gpsTime": "2021-05-07 04:24:15",
+            "direction": 178,
+            "gpsSpeed": 36.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.882909,
+            "lng": 113.676658,
+            "gpsTime": "2021-05-07 04:24:25",
+            "direction": 179,
+            "gpsSpeed": 36.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.882076,
+            "lng": 113.676658,
+            "gpsTime": "2021-05-07 04:24:35",
+            "direction": 159,
+            "gpsSpeed": 24.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.882031,
+            "lng": 113.676711,
+            "gpsTime": "2021-05-07 04:24:36",
+            "direction": 137,
+            "gpsSpeed": 22.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881984,
+            "lng": 113.676827,
+            "gpsTime": "2021-05-07 04:24:38",
+            "direction": 106,
+            "gpsSpeed": 21.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881951,
+            "lng": 113.677929,
+            "gpsTime": "2021-05-07 04:24:48",
+            "direction": 91,
+            "gpsSpeed": 46.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881942,
+            "lng": 113.679342,
+            "gpsTime": "2021-05-07 04:24:58",
+            "direction": 91,
+            "gpsSpeed": 47.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.88192,
+            "lng": 113.680889,
+            "gpsTime": "2021-05-07 04:25:08",
+            "direction": 90,
+            "gpsSpeed": 50.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.8819,
+            "lng": 113.68184,
+            "gpsTime": "2021-05-07 04:25:18",
+            "direction": 95,
+            "gpsSpeed": 8.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881858,
+            "lng": 113.682258,
+            "gpsTime": "2021-05-07 04:25:37",
+            "direction": 119,
+            "gpsSpeed": 16.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881798,
+            "lng": 113.682356,
+            "gpsTime": "2021-05-07 04:25:39",
+            "direction": 140,
+            "gpsSpeed": 22.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881702,
+            "lng": 113.6824,
+            "gpsTime": "2021-05-07 04:25:41",
+            "direction": 165,
+            "gpsSpeed": 23.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881436,
+            "lng": 113.682418,
+            "gpsTime": "2021-05-07 04:25:46",
+            "direction": 187,
+            "gpsSpeed": 20.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.88116,
+            "lng": 113.682329,
+            "gpsTime": "2021-05-07 04:25:52",
+            "direction": 211,
+            "gpsSpeed": 15.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881084,
+            "lng": 113.682178,
+            "gpsTime": "2021-05-07 04:25:56",
+            "direction": 239,
+            "gpsSpeed": 16.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881084,
+            "lng": 113.682018,
+            "gpsTime": "2021-05-07 04:25:58",
+            "direction": 261,
+            "gpsSpeed": 23.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881131,
+            "lng": 113.680862,
+            "gpsTime": "2021-05-07 04:26:08",
+            "direction": 271,
+            "gpsSpeed": 48.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881164,
+            "lng": 113.679129,
+            "gpsTime": "2021-05-07 04:26:18",
+            "direction": 271,
+            "gpsSpeed": 58.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881198,
+            "lng": 113.677333,
+            "gpsTime": "2021-05-07 04:26:28",
+            "direction": 271,
+            "gpsSpeed": 59.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881244,
+            "lng": 113.675636,
+            "gpsTime": "2021-05-07 04:26:38",
+            "direction": 272,
+            "gpsSpeed": 57.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881351,
+            "lng": 113.673813,
+            "gpsTime": "2021-05-07 04:26:48",
+            "direction": 273,
+            "gpsSpeed": 59.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881398,
+            "lng": 113.672036,
+            "gpsTime": "2021-05-07 04:26:58",
+            "direction": 273,
+            "gpsSpeed": 57.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881496,
+            "lng": 113.670249,
+            "gpsTime": "2021-05-07 04:27:08",
+            "direction": 275,
+            "gpsSpeed": 58.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.88176,
+            "lng": 113.6688,
+            "gpsTime": "2021-05-07 04:27:17",
+            "direction": 296,
+            "gpsSpeed": 55.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.882427,
+            "lng": 113.667324,
+            "gpsTime": "2021-05-07 04:27:27",
+            "direction": 280,
+            "gpsSpeed": 56.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.882436,
+            "lng": 113.666676,
+            "gpsTime": "2021-05-07 04:27:31",
+            "direction": 259,
+            "gpsSpeed": 50.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.882196,
+            "lng": 113.666027,
+            "gpsTime": "2021-05-07 04:27:36",
+            "direction": 232,
+            "gpsSpeed": 46.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881824,
+            "lng": 113.665644,
+            "gpsTime": "2021-05-07 04:27:40",
+            "direction": 210,
+            "gpsSpeed": 42.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.8814,
+            "lng": 113.665458,
+            "gpsTime": "2021-05-07 04:27:44",
+            "direction": 185,
+            "gpsSpeed": 46.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.880756,
+            "lng": 113.665627,
+            "gpsTime": "2021-05-07 04:27:49",
+            "direction": 161,
+            "gpsSpeed": 54.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.879482,
+            "lng": 113.666471,
+            "gpsTime": "2021-05-07 04:27:59",
+            "direction": 143,
+            "gpsSpeed": 57.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.878507,
+            "lng": 113.667653,
+            "gpsTime": "2021-05-07 04:28:09",
+            "direction": 130,
+            "gpsSpeed": 53.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.877613,
+            "lng": 113.669031,
+            "gpsTime": "2021-05-07 04:28:19",
+            "direction": 130,
+            "gpsSpeed": 60.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.876582,
+            "lng": 113.670524,
+            "gpsTime": "2021-05-07 04:28:29",
+            "direction": 130,
+            "gpsSpeed": 66.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.875511,
+            "lng": 113.671973,
+            "gpsTime": "2021-05-07 04:28:39",
+            "direction": 129,
+            "gpsSpeed": 64.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.874509,
+            "lng": 113.673387,
+            "gpsTime": "2021-05-07 04:28:49",
+            "direction": 130,
+            "gpsSpeed": 58.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.873664,
+            "lng": 113.674631,
+            "gpsTime": "2021-05-07 04:28:59",
+            "direction": 128,
+            "gpsSpeed": 48.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.872944,
+            "lng": 113.675653,
+            "gpsTime": "2021-05-07 04:29:09",
+            "direction": 130,
+            "gpsSpeed": 39.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.872504,
+            "lng": 113.676267,
+            "gpsTime": "2021-05-07 04:29:19",
+            "direction": 131,
+            "gpsSpeed": 18.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.872402,
+            "lng": 113.676427,
+            "gpsTime": "2021-05-07 04:29:28",
+            "direction": 126,
+            "gpsSpeed": 0.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.872318,
+            "lng": 113.67656,
+            "gpsTime": "2021-05-07 04:29:59",
+            "direction": 129,
+            "gpsSpeed": 17.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.871898,
+            "lng": 113.677147,
+            "gpsTime": "2021-05-07 04:30:09",
+            "direction": 129,
+            "gpsSpeed": 35.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.871116,
+            "lng": 113.678249,
+            "gpsTime": "2021-05-07 04:30:19",
+            "direction": 130,
+            "gpsSpeed": 53.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.870231,
+            "lng": 113.679476,
+            "gpsTime": "2021-05-07 04:30:29",
+            "direction": 131,
+            "gpsSpeed": 55.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.869358,
+            "lng": 113.680729,
+            "gpsTime": "2021-05-07 04:30:39",
+            "direction": 130,
+            "gpsSpeed": 54.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.868458,
+            "lng": 113.681964,
+            "gpsTime": "2021-05-07 04:30:49",
+            "direction": 134,
+            "gpsSpeed": 54.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.867429,
+            "lng": 113.68312,
+            "gpsTime": "2021-05-07 04:30:59",
+            "direction": 140,
+            "gpsSpeed": 57.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.866169,
+            "lng": 113.684124,
+            "gpsTime": "2021-05-07 04:31:09",
+            "direction": 148,
+            "gpsSpeed": 58.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.864896,
+            "lng": 113.684933,
+            "gpsTime": "2021-05-07 04:31:19",
+            "direction": 157,
+            "gpsSpeed": 57.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.863609,
+            "lng": 113.685413,
+            "gpsTime": "2021-05-07 04:31:29",
+            "direction": 164,
+            "gpsSpeed": 55.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.862209,
+            "lng": 113.68576,
+            "gpsTime": "2021-05-07 04:31:39",
+            "direction": 172,
+            "gpsSpeed": 58.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.86086,
+            "lng": 113.685876,
+            "gpsTime": "2021-05-07 04:31:49",
+            "direction": 180,
+            "gpsSpeed": 54.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.859451,
+            "lng": 113.68584,
+            "gpsTime": "2021-05-07 04:31:59",
+            "direction": 182,
+            "gpsSpeed": 58.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.858044,
+            "lng": 113.685804,
+            "gpsTime": "2021-05-07 04:32:09",
+            "direction": 177,
+            "gpsSpeed": 48.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.856709,
+            "lng": 113.68584,
+            "gpsTime": "2021-05-07 04:32:19",
+            "direction": 178,
+            "gpsSpeed": 57.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.855282,
+            "lng": 113.68584,
+            "gpsTime": "2021-05-07 04:32:29",
+            "direction": 180,
+            "gpsSpeed": 55.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.853833,
+            "lng": 113.685822,
+            "gpsTime": "2021-05-07 04:32:39",
+            "direction": 183,
+            "gpsSpeed": 60.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.852593,
+            "lng": 113.68568,
+            "gpsTime": "2021-05-07 04:32:49",
+            "direction": 185,
+            "gpsSpeed": 38.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.851369,
+            "lng": 113.685618,
+            "gpsTime": "2021-05-07 04:32:59",
+            "direction": 181,
+            "gpsSpeed": 51.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.850322,
+            "lng": 113.685618,
+            "gpsTime": "2021-05-07 04:33:09",
+            "direction": 183,
+            "gpsSpeed": 30.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.849927,
+            "lng": 113.685591,
+            "gpsTime": "2021-05-07 04:33:19",
+            "direction": 179,
+            "gpsSpeed": 9.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.84948,
+            "lng": 113.685618,
+            "gpsTime": "2021-05-07 04:33:29",
+            "direction": 181,
+            "gpsSpeed": 26.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.84856,
+            "lng": 113.685529,
+            "gpsTime": "2021-05-07 04:33:39",
+            "direction": 178,
+            "gpsSpeed": 40.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.847207,
+            "lng": 113.68568,
+            "gpsTime": "2021-05-07 04:33:49",
+            "direction": 180,
+            "gpsSpeed": 60.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.845744,
+            "lng": 113.685627,
+            "gpsTime": "2021-05-07 04:33:59",
+            "direction": 179,
+            "gpsSpeed": 55.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.8443,
+            "lng": 113.685662,
+            "gpsTime": "2021-05-07 04:34:09",
+            "direction": 180,
+            "gpsSpeed": 55.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.842942,
+            "lng": 113.685591,
+            "gpsTime": "2021-05-07 04:34:19",
+            "direction": 182,
+            "gpsSpeed": 55.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.841842,
+            "lng": 113.685547,
+            "gpsTime": "2021-05-07 04:34:29",
+            "direction": 199,
+            "gpsSpeed": 28.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.841744,
+            "lng": 113.685467,
+            "gpsTime": "2021-05-07 04:34:31",
+            "direction": 238,
+            "gpsSpeed": 26.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.841713,
+            "lng": 113.685236,
+            "gpsTime": "2021-05-07 04:34:34",
+            "direction": 267,
+            "gpsSpeed": 27.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.8419,
+            "lng": 113.683982,
+            "gpsTime": "2021-05-07 04:34:44",
+            "direction": 277,
+            "gpsSpeed": 43.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.84198,
+            "lng": 113.682569,
+            "gpsTime": "2021-05-07 04:34:54",
+            "direction": 279,
+            "gpsSpeed": 50.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.842162,
+            "lng": 113.681182,
+            "gpsTime": "2021-05-07 04:35:04",
+            "direction": 279,
+            "gpsSpeed": 40.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.84238,
+            "lng": 113.680018,
+            "gpsTime": "2021-05-07 04:35:14",
+            "direction": 279,
+            "gpsSpeed": 35.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.842427,
+            "lng": 113.679529,
+            "gpsTime": "2021-05-07 04:35:24",
+            "direction": 217,
+            "gpsSpeed": 7.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.842187,
+            "lng": 113.679413,
+            "gpsTime": "2021-05-07 04:35:34",
+            "direction": 191,
+            "gpsSpeed": 8.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.841864,
+            "lng": 113.679396,
+            "gpsTime": "2021-05-07 04:35:44",
+            "direction": 184,
+            "gpsSpeed": 13.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.841529,
+            "lng": 113.679396,
+            "gpsTime": "2021-05-07 04:36:13",
+            "direction": 157,
+            "gpsSpeed": 0.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.841293,
+            "lng": 113.679316,
+            "gpsTime": "2021-05-07 04:36:22",
+            "direction": 187,
+            "gpsSpeed": 16.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840947,
+            "lng": 113.67936,
+            "gpsTime": "2021-05-07 04:36:32",
+            "direction": 175,
+            "gpsSpeed": 11.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840627,
+            "lng": 113.67936,
+            "gpsTime": "2021-05-07 04:37:02",
+            "direction": 182,
+            "gpsSpeed": 7.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840584,
+            "lng": 113.67936,
+            "gpsTime": "2021-05-07 04:37:10",
+            "direction": 176,
+            "gpsSpeed": 0.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840587,
+            "lng": 113.678853,
+            "gpsTime": "2021-05-07 04:37:52",
+            "direction": 274,
+            "gpsSpeed": 11.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840633,
+            "lng": 113.678533,
+            "gpsTime": "2021-05-07 04:38:02",
+            "direction": 279,
+            "gpsSpeed": 8.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.84068,
+            "lng": 113.678267,
+            "gpsTime": "2021-05-07 04:38:32",
+            "direction": 270,
+            "gpsSpeed": 8.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840682,
+            "lng": 113.677991,
+            "gpsTime": "2021-05-07 04:38:42",
+            "direction": 277,
+            "gpsSpeed": 11.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840718,
+            "lng": 113.677689,
+            "gpsTime": "2021-05-07 04:38:52",
+            "direction": 278,
+            "gpsSpeed": 11.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840776,
+            "lng": 113.677342,
+            "gpsTime": "2021-05-07 04:39:02",
+            "direction": 274,
+            "gpsSpeed": 12.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840829,
+            "lng": 113.676987,
+            "gpsTime": "2021-05-07 04:39:12",
+            "direction": 281,
+            "gpsSpeed": 10.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840858,
+            "lng": 113.676693,
+            "gpsTime": "2021-05-07 04:39:48",
+            "direction": 277,
+            "gpsSpeed": 0.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840867,
+            "lng": 113.676498,
+            "gpsTime": "2021-05-07 04:40:02",
+            "direction": 267,
+            "gpsSpeed": 8.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840942,
+            "lng": 113.676267,
+            "gpsTime": "2021-05-07 04:40:12",
+            "direction": 277,
+            "gpsSpeed": 9.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.841044,
+            "lng": 113.676027,
+            "gpsTime": "2021-05-07 04:40:22",
+            "direction": 281,
+            "gpsSpeed": 8.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.84108,
+            "lng": 113.675698,
+            "gpsTime": "2021-05-07 04:41:04",
+            "direction": 276,
+            "gpsSpeed": 0.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.84108,
+            "lng": 113.675493,
+            "gpsTime": "2021-05-07 04:42:02",
+            "direction": 255,
+            "gpsSpeed": 7.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.841098,
+            "lng": 113.675147,
+            "gpsTime": "2021-05-07 04:42:12",
+            "direction": 273,
+            "gpsSpeed": 13.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.841124,
+            "lng": 113.674791,
+            "gpsTime": "2021-05-07 04:42:22",
+            "direction": 257,
+            "gpsSpeed": 9.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840862,
+            "lng": 113.67456,
+            "gpsTime": "2021-05-07 04:43:09",
+            "direction": 129,
+            "gpsSpeed": 0.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840218,
+            "lng": 113.675796,
+            "gpsTime": "2021-05-07 05:14:02",
+            "direction": 93,
+            "gpsSpeed": 8.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840213,
+            "lng": 113.676071,
+            "gpsTime": "2021-05-07 05:14:12",
+            "direction": 86,
+            "gpsSpeed": 8.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840249,
+            "lng": 113.676356,
+            "gpsTime": "2021-05-07 05:14:49",
+            "direction": 34,
+            "gpsSpeed": 0.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.84026,
+            "lng": 113.675849,
+            "gpsTime": "2021-05-07 05:25:54",
+            "direction": 254,
+            "gpsSpeed": 0.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840411,
+            "lng": 113.675262,
+            "gpsTime": "2021-05-07 05:26:42",
+            "direction": 334,
+            "gpsSpeed": 7.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840836,
+            "lng": 113.674951,
+            "gpsTime": "2021-05-07 05:27:12",
+            "direction": 274,
+            "gpsSpeed": 9.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840867,
+            "lng": 113.674658,
+            "gpsTime": "2021-05-07 05:27:22",
+            "direction": 277,
+            "gpsSpeed": 9.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.841011,
+            "lng": 113.674649,
+            "gpsTime": "2021-05-07 05:27:42",
+            "direction": 32,
+            "gpsSpeed": 0.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840778,
+            "lng": 113.676907,
+            "gpsTime": "2021-05-07 05:30:52",
+            "direction": 107,
+            "gpsSpeed": 6.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840627,
+            "lng": 113.67832,
+            "gpsTime": "2021-05-07 05:32:07",
+            "direction": 92,
+            "gpsSpeed": 0.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840713,
+            "lng": 113.67936,
+            "gpsTime": "2021-05-07 05:33:22",
+            "direction": 357,
+            "gpsSpeed": 8.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840962,
+            "lng": 113.679378,
+            "gpsTime": "2021-05-07 05:33:32",
+            "direction": 5,
+            "gpsSpeed": 9.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.841124,
+            "lng": 113.679342,
+            "gpsTime": "2021-05-07 05:33:42",
+            "direction": 2,
+            "gpsSpeed": 8.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.841327,
+            "lng": 113.679342,
+            "gpsTime": "2021-05-07 05:33:52",
+            "direction": 5,
+            "gpsSpeed": 8.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.841542,
+            "lng": 113.679378,
+            "gpsTime": "2021-05-07 05:34:02",
+            "direction": 358,
+            "gpsSpeed": 7.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.841811,
+            "lng": 113.679396,
+            "gpsTime": "2021-05-07 05:34:12",
+            "direction": 4,
+            "gpsSpeed": 7.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.842122,
+            "lng": 113.679458,
+            "gpsTime": "2021-05-07 05:34:47",
+            "direction": 29,
+            "gpsSpeed": 0.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.842351,
+            "lng": 113.68008,
+            "gpsTime": "2021-05-07 05:35:32",
+            "direction": 98,
+            "gpsSpeed": 14.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.8423,
+            "lng": 113.680551,
+            "gpsTime": "2021-05-07 05:35:42",
+            "direction": 99,
+            "gpsSpeed": 15.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.842278,
+            "lng": 113.681138,
+            "gpsTime": "2021-05-07 05:35:52",
+            "direction": 98,
+            "gpsSpeed": 18.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.842198,
+            "lng": 113.681591,
+            "gpsTime": "2021-05-07 05:36:02",
+            "direction": 97,
+            "gpsSpeed": 14.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.842129,
+            "lng": 113.68208,
+            "gpsTime": "2021-05-07 05:36:12",
+            "direction": 97,
+            "gpsSpeed": 17.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.842056,
+            "lng": 113.682649,
+            "gpsTime": "2021-05-07 05:36:22",
+            "direction": 98,
+            "gpsSpeed": 18.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.841958,
+            "lng": 113.683218,
+            "gpsTime": "2021-05-07 05:36:32",
+            "direction": 99,
+            "gpsSpeed": 17.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.841893,
+            "lng": 113.683804,
+            "gpsTime": "2021-05-07 05:36:42",
+            "direction": 100,
+            "gpsSpeed": 19.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.841789,
+            "lng": 113.684391,
+            "gpsTime": "2021-05-07 05:36:52",
+            "direction": 95,
+            "gpsSpeed": 19.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.841702,
+            "lng": 113.685013,
+            "gpsTime": "2021-05-07 05:37:02",
+            "direction": 103,
+            "gpsSpeed": 20.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.841587,
+            "lng": 113.685529,
+            "gpsTime": "2021-05-07 05:37:12",
+            "direction": 115,
+            "gpsSpeed": 10.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.841336,
+            "lng": 113.685573,
+            "gpsTime": "2021-05-07 05:37:22",
+            "direction": 182,
+            "gpsSpeed": 15.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840798,
+            "lng": 113.685564,
+            "gpsTime": "2021-05-07 05:37:32",
+            "direction": 177,
+            "gpsSpeed": 21.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.840182,
+            "lng": 113.685573,
+            "gpsTime": "2021-05-07 05:37:42",
+            "direction": 178,
+            "gpsSpeed": 28.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.839402,
+            "lng": 113.685627,
+            "gpsTime": "2021-05-07 05:37:52",
+            "direction": 173,
+            "gpsSpeed": 35.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.838429,
+            "lng": 113.685742,
+            "gpsTime": "2021-05-07 05:38:02",
+            "direction": 172,
+            "gpsSpeed": 37.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.837536,
+            "lng": 113.685893,
+            "gpsTime": "2021-05-07 05:38:12",
+            "direction": 170,
+            "gpsSpeed": 36.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.836604,
+            "lng": 113.686133,
+            "gpsTime": "2021-05-07 05:38:22",
+            "direction": 162,
+            "gpsSpeed": 37.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.835742,
+            "lng": 113.686596,
+            "gpsTime": "2021-05-07 05:38:32",
+            "direction": 159,
+            "gpsSpeed": 35.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.835273,
+            "lng": 113.686596,
+            "gpsTime": "2021-05-07 05:38:42",
+            "direction": 156,
+            "gpsSpeed": 16.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.835202,
+            "lng": 113.686898,
+            "gpsTime": "2021-05-07 05:38:52",
+            "direction": 58,
+            "gpsSpeed": 8.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.835389,
+            "lng": 113.686978,
+            "gpsTime": "2021-05-07 05:38:59",
+            "direction": 352,
+            "gpsSpeed": 16.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.835933,
+            "lng": 113.686818,
+            "gpsTime": "2021-05-07 05:39:09",
+            "direction": 347,
+            "gpsSpeed": 27.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.836678,
+            "lng": 113.68664,
+            "gpsTime": "2021-05-07 05:39:19",
+            "direction": 351,
+            "gpsSpeed": 30.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.837636,
+            "lng": 113.686409,
+            "gpsTime": "2021-05-07 05:39:29",
+            "direction": 354,
+            "gpsSpeed": 43.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.838809,
+            "lng": 113.686329,
+            "gpsTime": "2021-05-07 05:39:39",
+            "direction": 354,
+            "gpsSpeed": 49.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.839969,
+            "lng": 113.686213,
+            "gpsTime": "2021-05-07 05:39:49",
+            "direction": 358,
+            "gpsSpeed": 49.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.841233,
+            "lng": 113.686133,
+            "gpsTime": "2021-05-07 05:39:59",
+            "direction": 357,
+            "gpsSpeed": 53.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.842613,
+            "lng": 113.686133,
+            "gpsTime": "2021-05-07 05:40:09",
+            "direction": 0,
+            "gpsSpeed": 56.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.84396,
+            "lng": 113.686116,
+            "gpsTime": "2021-05-07 05:40:19",
+            "direction": 0,
+            "gpsSpeed": 52.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.845313,
+            "lng": 113.686116,
+            "gpsTime": "2021-05-07 05:40:29",
+            "direction": 359,
+            "gpsSpeed": 55.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.846696,
+            "lng": 113.686116,
+            "gpsTime": "2021-05-07 05:40:39",
+            "direction": 359,
+            "gpsSpeed": 53.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.847953,
+            "lng": 113.68608,
+            "gpsTime": "2021-05-07 05:40:49",
+            "direction": 1,
+            "gpsSpeed": 43.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.848709,
+            "lng": 113.686133,
+            "gpsTime": "2021-05-07 05:40:59",
+            "direction": 1,
+            "gpsSpeed": 21.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.849,
+            "lng": 113.686151,
+            "gpsTime": "2021-05-07 05:41:09",
+            "direction": 1,
+            "gpsSpeed": 8.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.849327,
+            "lng": 113.686133,
+            "gpsTime": "2021-05-07 05:41:19",
+            "direction": 357,
+            "gpsSpeed": 19.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.849991,
+            "lng": 113.686151,
+            "gpsTime": "2021-05-07 05:41:29",
+            "direction": 359,
+            "gpsSpeed": 35.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.850907,
+            "lng": 113.686133,
+            "gpsTime": "2021-05-07 05:41:39",
+            "direction": 0,
+            "gpsSpeed": 36.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.85194,
+            "lng": 113.686169,
+            "gpsTime": "2021-05-07 05:41:49",
+            "direction": 358,
+            "gpsSpeed": 46.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.853244,
+            "lng": 113.686231,
+            "gpsTime": "2021-05-07 05:41:59",
+            "direction": 0,
+            "gpsSpeed": 53.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.854627,
+            "lng": 113.686178,
+            "gpsTime": "2021-05-07 05:42:09",
+            "direction": 1,
+            "gpsSpeed": 57.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.856002,
+            "lng": 113.686169,
+            "gpsTime": "2021-05-07 05:42:19",
+            "direction": 1,
+            "gpsSpeed": 54.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.857411,
+            "lng": 113.686169,
+            "gpsTime": "2021-05-07 05:42:29",
+            "direction": 0,
+            "gpsSpeed": 55.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.858833,
+            "lng": 113.686249,
+            "gpsTime": "2021-05-07 05:42:39",
+            "direction": 0,
+            "gpsSpeed": 56.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.86024,
+            "lng": 113.686249,
+            "gpsTime": "2021-05-07 05:42:49",
+            "direction": 359,
+            "gpsSpeed": 57.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.861622,
+            "lng": 113.686169,
+            "gpsTime": "2021-05-07 05:42:59",
+            "direction": 355,
+            "gpsSpeed": 54.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.863033,
+            "lng": 113.68592,
+            "gpsTime": "2021-05-07 05:43:09",
+            "direction": 348,
+            "gpsSpeed": 55.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.86438,
+            "lng": 113.685476,
+            "gpsTime": "2021-05-07 05:43:19",
+            "direction": 341,
+            "gpsSpeed": 56.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.865673,
+            "lng": 113.684782,
+            "gpsTime": "2021-05-07 05:43:29",
+            "direction": 333,
+            "gpsSpeed": 56.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.866904,
+            "lng": 113.683956,
+            "gpsTime": "2021-05-07 05:43:39",
+            "direction": 325,
+            "gpsSpeed": 56.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.868031,
+            "lng": 113.68288,
+            "gpsTime": "2021-05-07 05:43:49",
+            "direction": 316,
+            "gpsSpeed": 57.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.869038,
+            "lng": 113.681591,
+            "gpsTime": "2021-05-07 05:43:59",
+            "direction": 311,
+            "gpsSpeed": 57.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.869969,
+            "lng": 113.680258,
+            "gpsTime": "2021-05-07 05:44:09",
+            "direction": 310,
+            "gpsSpeed": 57.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.870869,
+            "lng": 113.679084,
+            "gpsTime": "2021-05-07 05:44:19",
+            "direction": 310,
+            "gpsSpeed": 44.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.871396,
+            "lng": 113.678302,
+            "gpsTime": "2021-05-07 05:44:29",
+            "direction": 310,
+            "gpsSpeed": 23.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.871629,
+            "lng": 113.677991,
+            "gpsTime": "2021-05-07 05:44:42",
+            "direction": 308,
+            "gpsSpeed": 0.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.871711,
+            "lng": 113.677867,
+            "gpsTime": "2021-05-07 05:44:59",
+            "direction": 309,
+            "gpsSpeed": 11.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.871884,
+            "lng": 113.677573,
+            "gpsTime": "2021-05-07 05:45:09",
+            "direction": 310,
+            "gpsSpeed": 15.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.872233,
+            "lng": 113.677067,
+            "gpsTime": "2021-05-07 05:45:19",
+            "direction": 313,
+            "gpsSpeed": 25.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.872749,
+            "lng": 113.676338,
+            "gpsTime": "2021-05-07 05:45:29",
+            "direction": 311,
+            "gpsSpeed": 38.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.873431,
+            "lng": 113.675342,
+            "gpsTime": "2021-05-07 05:45:39",
+            "direction": 312,
+            "gpsSpeed": 44.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.874164,
+            "lng": 113.67432,
+            "gpsTime": "2021-05-07 05:45:49",
+            "direction": 310,
+            "gpsSpeed": 44.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.8749,
+            "lng": 113.673271,
+            "gpsTime": "2021-05-07 05:45:59",
+            "direction": 310,
+            "gpsSpeed": 45.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.875656,
+            "lng": 113.672249,
+            "gpsTime": "2021-05-07 05:46:09",
+            "direction": 312,
+            "gpsSpeed": 44.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.876411,
+            "lng": 113.671253,
+            "gpsTime": "2021-05-07 05:46:19",
+            "direction": 311,
+            "gpsSpeed": 44.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.877156,
+            "lng": 113.670284,
+            "gpsTime": "2021-05-07 05:46:29",
+            "direction": 312,
+            "gpsSpeed": 43.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.877842,
+            "lng": 113.669289,
+            "gpsTime": "2021-05-07 05:46:39",
+            "direction": 310,
+            "gpsSpeed": 39.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.878411,
+            "lng": 113.668631,
+            "gpsTime": "2021-05-07 05:46:47",
+            "direction": 333,
+            "gpsSpeed": 40.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.878818,
+            "lng": 113.668524,
+            "gpsTime": "2021-05-07 05:46:51",
+            "direction": 354,
+            "gpsSpeed": 41.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.879333,
+            "lng": 113.668587,
+            "gpsTime": "2021-05-07 05:46:56",
+            "direction": 15,
+            "gpsSpeed": 41.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.880169,
+            "lng": 113.668978,
+            "gpsTime": "2021-05-07 05:47:05",
+            "direction": 35,
+            "gpsSpeed": 37.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.880589,
+            "lng": 113.669467,
+            "gpsTime": "2021-05-07 05:47:11",
+            "direction": 55,
+            "gpsSpeed": 42.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.880824,
+            "lng": 113.67008,
+            "gpsTime": "2021-05-07 05:47:16",
+            "direction": 78,
+            "gpsSpeed": 44.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.880916,
+            "lng": 113.671342,
+            "gpsTime": "2021-05-07 05:47:26",
+            "direction": 85,
+            "gpsSpeed": 40.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.880998,
+            "lng": 113.672693,
+            "gpsTime": "2021-05-07 05:47:36",
+            "direction": 91,
+            "gpsSpeed": 45.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.880993,
+            "lng": 113.674053,
+            "gpsTime": "2021-05-07 05:47:46",
+            "direction": 88,
+            "gpsSpeed": 45.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.880978,
+            "lng": 113.67536,
+            "gpsTime": "2021-05-07 05:47:56",
+            "direction": 90,
+            "gpsSpeed": 42.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.880929,
+            "lng": 113.676756,
+            "gpsTime": "2021-05-07 05:48:06",
+            "direction": 90,
+            "gpsSpeed": 45.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.88094,
+            "lng": 113.67808,
+            "gpsTime": "2021-05-07 05:48:16",
+            "direction": 90,
+            "gpsSpeed": 44.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.880998,
+            "lng": 113.679431,
+            "gpsTime": "2021-05-07 05:48:26",
+            "direction": 89,
+            "gpsSpeed": 44.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.880958,
+            "lng": 113.680782,
+            "gpsTime": "2021-05-07 05:48:36",
+            "direction": 88,
+            "gpsSpeed": 44.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.88092,
+            "lng": 113.682027,
+            "gpsTime": "2021-05-07 05:48:46",
+            "direction": 86,
+            "gpsSpeed": 29.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.880924,
+            "lng": 113.682551,
+            "gpsTime": "2021-05-07 05:48:56",
+            "direction": 75,
+            "gpsSpeed": 10.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.880924,
+            "lng": 113.682604,
+            "gpsTime": "2021-05-07 05:48:59",
+            "direction": 78,
+            "gpsSpeed": 0.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881207,
+            "lng": 113.682613,
+            "gpsTime": "2021-05-07 05:49:16",
+            "direction": 346,
+            "gpsSpeed": 12.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881722,
+            "lng": 113.682453,
+            "gpsTime": "2021-05-07 05:49:26",
+            "direction": 333,
+            "gpsSpeed": 21.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.88184,
+            "lng": 113.682347,
+            "gpsTime": "2021-05-07 05:49:29",
+            "direction": 309,
+            "gpsSpeed": 21.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881909,
+            "lng": 113.68216,
+            "gpsTime": "2021-05-07 05:49:32",
+            "direction": 281,
+            "gpsSpeed": 24.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881951,
+            "lng": 113.681369,
+            "gpsTime": "2021-05-07 05:49:42",
+            "direction": 270,
+            "gpsSpeed": 29.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881962,
+            "lng": 113.680391,
+            "gpsTime": "2021-05-07 05:49:52",
+            "direction": 270,
+            "gpsSpeed": 32.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881953,
+            "lng": 113.67944,
+            "gpsTime": "2021-05-07 05:50:02",
+            "direction": 273,
+            "gpsSpeed": 31.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881996,
+            "lng": 113.678418,
+            "gpsTime": "2021-05-07 05:50:12",
+            "direction": 271,
+            "gpsSpeed": 36.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881978,
+            "lng": 113.677227,
+            "gpsTime": "2021-05-07 05:50:22",
+            "direction": 269,
+            "gpsSpeed": 36.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.882047,
+            "lng": 113.676827,
+            "gpsTime": "2021-05-07 05:50:27",
+            "direction": 299,
+            "gpsSpeed": 22.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.882142,
+            "lng": 113.676747,
+            "gpsTime": "2021-05-07 05:50:29",
+            "direction": 331,
+            "gpsSpeed": 20.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.882304,
+            "lng": 113.676693,
+            "gpsTime": "2021-05-07 05:50:32",
+            "direction": 355,
+            "gpsSpeed": 22.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.882969,
+            "lng": 113.676711,
+            "gpsTime": "2021-05-07 05:50:42",
+            "direction": 1,
+            "gpsSpeed": 32.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.883938,
+            "lng": 113.676658,
+            "gpsTime": "2021-05-07 05:50:52",
+            "direction": 359,
+            "gpsSpeed": 40.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.884753,
+            "lng": 113.67656,
+            "gpsTime": "2021-05-07 05:51:01",
+            "direction": 332,
+            "gpsSpeed": 30.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.884927,
+            "lng": 113.6764,
+            "gpsTime": "2021-05-07 05:51:04",
+            "direction": 304,
+            "gpsSpeed": 27.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.884996,
+            "lng": 113.676169,
+            "gpsTime": "2021-05-07 05:51:07",
+            "direction": 281,
+            "gpsSpeed": 26.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.884976,
+            "lng": 113.675244,
+            "gpsTime": "2021-05-07 05:51:17",
+            "direction": 270,
+            "gpsSpeed": 33.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.884938,
+            "lng": 113.674169,
+            "gpsTime": "2021-05-07 05:51:27",
+            "direction": 269,
+            "gpsSpeed": 35.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.884976,
+            "lng": 113.673129,
+            "gpsTime": "2021-05-07 05:51:37",
+            "direction": 267,
+            "gpsSpeed": 32.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.884971,
+            "lng": 113.672133,
+            "gpsTime": "2021-05-07 05:51:47",
+            "direction": 268,
+            "gpsSpeed": 33.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.884964,
+            "lng": 113.671289,
+            "gpsTime": "2021-05-07 05:51:57",
+            "direction": 279,
+            "gpsSpeed": 18.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.88536,
+            "lng": 113.671129,
+            "gpsTime": "2021-05-07 05:52:17",
+            "direction": 5,
+            "gpsSpeed": 8.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.885731,
+            "lng": 113.671342,
+            "gpsTime": "2021-05-07 05:52:37",
+            "direction": 26,
+            "gpsSpeed": 9.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.885978,
+            "lng": 113.671467,
+            "gpsTime": "2021-05-07 05:52:47",
+            "direction": 23,
+            "gpsSpeed": 11.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.886258,
+            "lng": 113.6716,
+            "gpsTime": "2021-05-07 05:52:57",
+            "direction": 20,
+            "gpsSpeed": 11.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.886467,
+            "lng": 113.671716,
+            "gpsTime": "2021-05-07 05:53:07",
+            "direction": 20,
+            "gpsSpeed": 7.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.886558,
+            "lng": 113.671893,
+            "gpsTime": "2021-05-07 05:53:17",
+            "direction": 99,
+            "gpsSpeed": 7.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.886551,
+            "lng": 113.672116,
+            "gpsTime": "2021-05-07 05:53:27",
+            "direction": 97,
+            "gpsSpeed": 7.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.886556,
+            "lng": 113.672293,
+            "gpsTime": "2021-05-07 05:54:01",
+            "direction": 90,
+            "gpsSpeed": 0.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.886771,
+            "lng": 113.672604,
+            "gpsTime": "2021-05-07 05:56:51",
+            "direction": 359,
+            "gpsSpeed": 0.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.886589,
+            "lng": 113.67232,
+            "gpsTime": "2021-05-07 05:59:57",
+            "direction": 261,
+            "gpsSpeed": 8.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.886598,
+            "lng": 113.672036,
+            "gpsTime": "2021-05-07 06:00:07",
+            "direction": 272,
+            "gpsSpeed": 9.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.886551,
+            "lng": 113.671742,
+            "gpsTime": "2021-05-07 06:00:17",
+            "direction": 224,
+            "gpsSpeed": 9.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.886369,
+            "lng": 113.671627,
+            "gpsTime": "2021-05-07 06:00:27",
+            "direction": 186,
+            "gpsSpeed": 10.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.88612,
+            "lng": 113.67152,
+            "gpsTime": "2021-05-07 06:00:37",
+            "direction": 198,
+            "gpsSpeed": 9.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.885864,
+            "lng": 113.671369,
+            "gpsTime": "2021-05-07 06:00:47",
+            "direction": 199,
+            "gpsSpeed": 10.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.8856,
+            "lng": 113.671173,
+            "gpsTime": "2021-05-07 06:01:07",
+            "direction": 213,
+            "gpsSpeed": 7.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.885371,
+            "lng": 113.671093,
+            "gpsTime": "2021-05-07 06:01:17",
+            "direction": 188,
+            "gpsSpeed": 10.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.88506,
+            "lng": 113.67104,
+            "gpsTime": "2021-05-07 06:01:27",
+            "direction": 196,
+            "gpsSpeed": 11.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.884929,
+            "lng": 113.671271,
+            "gpsTime": "2021-05-07 06:01:37",
+            "direction": 92,
+            "gpsSpeed": 14.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.884927,
+            "lng": 113.671547,
+            "gpsTime": "2021-05-07 06:01:47",
+            "direction": 89,
+            "gpsSpeed": 8.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.884927,
+            "lng": 113.671716,
+            "gpsTime": "2021-05-07 06:01:55",
+            "direction": 91,
+            "gpsSpeed": 0.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.884922,
+            "lng": 113.671876,
+            "gpsTime": "2021-05-07 06:02:17",
+            "direction": 90,
+            "gpsSpeed": 16.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.884913,
+            "lng": 113.67264,
+            "gpsTime": "2021-05-07 06:02:27",
+            "direction": 90,
+            "gpsSpeed": 34.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.8849,
+            "lng": 113.673813,
+            "gpsTime": "2021-05-07 06:02:37",
+            "direction": 91,
+            "gpsSpeed": 43.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.884887,
+            "lng": 113.675227,
+            "gpsTime": "2021-05-07 06:02:47",
+            "direction": 90,
+            "gpsSpeed": 45.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.884876,
+            "lng": 113.676418,
+            "gpsTime": "2021-05-07 06:02:57",
+            "direction": 113,
+            "gpsSpeed": 33.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.884767,
+            "lng": 113.67656,
+            "gpsTime": "2021-05-07 06:02:59",
+            "direction": 139,
+            "gpsSpeed": 27.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.884598,
+            "lng": 113.676596,
+            "gpsTime": "2021-05-07 06:03:01",
+            "direction": 174,
+            "gpsSpeed": 28.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.883602,
+            "lng": 113.676613,
+            "gpsTime": "2021-05-07 06:03:11",
+            "direction": 180,
+            "gpsSpeed": 43.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.882522,
+            "lng": 113.67664,
+            "gpsTime": "2021-05-07 06:03:21",
+            "direction": 181,
+            "gpsSpeed": 37.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.882118,
+            "lng": 113.676711,
+            "gpsTime": "2021-05-07 06:03:26",
+            "direction": 154,
+            "gpsSpeed": 30.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.882007,
+            "lng": 113.676844,
+            "gpsTime": "2021-05-07 06:03:28",
+            "direction": 131,
+            "gpsSpeed": 29.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881951,
+            "lng": 113.676987,
+            "gpsTime": "2021-05-07 06:03:30",
+            "direction": 106,
+            "gpsSpeed": 27.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881898,
+            "lng": 113.67808,
+            "gpsTime": "2021-05-07 06:03:40",
+            "direction": 87,
+            "gpsSpeed": 40.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881909,
+            "lng": 113.67928,
+            "gpsTime": "2021-05-07 06:03:50",
+            "direction": 88,
+            "gpsSpeed": 41.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881884,
+            "lng": 113.680693,
+            "gpsTime": "2021-05-07 06:04:00",
+            "direction": 91,
+            "gpsSpeed": 48.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881889,
+            "lng": 113.682062,
+            "gpsTime": "2021-05-07 06:04:10",
+            "direction": 93,
+            "gpsSpeed": 33.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881831,
+            "lng": 113.682293,
+            "gpsTime": "2021-05-07 06:04:13",
+            "direction": 126,
+            "gpsSpeed": 25.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881729,
+            "lng": 113.682391,
+            "gpsTime": "2021-05-07 06:04:15",
+            "direction": 151,
+            "gpsSpeed": 22.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.8816,
+            "lng": 113.682418,
+            "gpsTime": "2021-05-07 06:04:17",
+            "direction": 172,
+            "gpsSpeed": 25.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881131,
+            "lng": 113.682178,
+            "gpsTime": "2021-05-07 06:04:35",
+            "direction": 263,
+            "gpsSpeed": 18.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881142,
+            "lng": 113.681236,
+            "gpsTime": "2021-05-07 06:04:45",
+            "direction": 272,
+            "gpsSpeed": 41.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881244,
+            "lng": 113.679573,
+            "gpsTime": "2021-05-07 06:04:55",
+            "direction": 270,
+            "gpsSpeed": 52.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881191,
+            "lng": 113.678062,
+            "gpsTime": "2021-05-07 06:05:05",
+            "direction": 272,
+            "gpsSpeed": 49.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881249,
+            "lng": 113.676364,
+            "gpsTime": "2021-05-07 06:05:15",
+            "direction": 271,
+            "gpsSpeed": 58.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881324,
+            "lng": 113.674649,
+            "gpsTime": "2021-05-07 06:05:25",
+            "direction": 274,
+            "gpsSpeed": 55.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.88136,
+            "lng": 113.672978,
+            "gpsTime": "2021-05-07 06:05:35",
+            "direction": 276,
+            "gpsSpeed": 52.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.88142,
+            "lng": 113.671582,
+            "gpsTime": "2021-05-07 06:05:45",
+            "direction": 274,
+            "gpsSpeed": 44.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881573,
+            "lng": 113.670311,
+            "gpsTime": "2021-05-07 06:05:55",
+            "direction": 287,
+            "gpsSpeed": 39.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881951,
+            "lng": 113.669387,
+            "gpsTime": "2021-05-07 06:06:05",
+            "direction": 298,
+            "gpsSpeed": 34.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.882289,
+            "lng": 113.668827,
+            "gpsTime": "2021-05-07 06:06:20",
+            "direction": 316,
+            "gpsSpeed": 0.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.882367,
+            "lng": 113.66872,
+            "gpsTime": "2021-05-07 06:06:25",
+            "direction": 317,
+            "gpsSpeed": 13.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.882676,
+            "lng": 113.668311,
+            "gpsTime": "2021-05-07 06:06:35",
+            "direction": 310,
+            "gpsSpeed": 22.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.882962,
+            "lng": 113.667769,
+            "gpsTime": "2021-05-07 06:06:45",
+            "direction": 276,
+            "gpsSpeed": 13.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.882938,
+            "lng": 113.66768,
+            "gpsTime": "2021-05-07 06:06:47",
+            "direction": 238,
+            "gpsSpeed": 15.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.882862,
+            "lng": 113.667582,
+            "gpsTime": "2021-05-07 06:06:50",
+            "direction": 216,
+            "gpsSpeed": 16.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.882267,
+            "lng": 113.667271,
+            "gpsTime": "2021-05-07 06:06:58",
+            "direction": 192,
+            "gpsSpeed": 39.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881776,
+            "lng": 113.667209,
+            "gpsTime": "2021-05-07 06:07:03",
+            "direction": 172,
+            "gpsSpeed": 35.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.881091,
+            "lng": 113.667333,
+            "gpsTime": "2021-05-07 06:07:13",
+            "direction": 165,
+            "gpsSpeed": 18.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.880596,
+            "lng": 113.667493,
+            "gpsTime": "2021-05-07 06:07:23",
+            "direction": 161,
+            "gpsSpeed": 30.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.880324,
+            "lng": 113.667698,
+            "gpsTime": "2021-05-07 06:07:27",
+            "direction": 139,
+            "gpsSpeed": 30.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.880027,
+            "lng": 113.668187,
+            "gpsTime": "2021-05-07 06:07:33",
+            "direction": 116,
+            "gpsSpeed": 34.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.879902,
+            "lng": 113.668818,
+            "gpsTime": "2021-05-07 06:07:40",
+            "direction": 96,
+            "gpsSpeed": 24.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.879849,
+            "lng": 113.669316,
+            "gpsTime": "2021-05-07 06:07:50",
+            "direction": 82,
+            "gpsSpeed": 11.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.879849,
+            "lng": 113.669387,
+            "gpsTime": "2021-05-07 06:08:15",
+            "direction": 96,
+            "gpsSpeed": 0.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.879849,
+            "lng": 113.669387,
+            "gpsTime": "2021-05-07 06:08:15",
+            "direction": 96,
+            "gpsSpeed": 0.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.879849,
+            "lng": 113.669387,
+            "gpsTime": "2021-05-07 06:08:15",
+            "direction": 96,
+            "gpsSpeed": 0.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        },
+        {
+            "lat": 34.879849,
+            "lng": 113.669387,
+            "gpsTime": "2021-05-07 06:08:15",
+            "direction": 96,
+            "gpsSpeed": 0.0,
+            "posType": 1,
+            "address": null,
+            "mileage": 0.0
+        }
+    ]
+}

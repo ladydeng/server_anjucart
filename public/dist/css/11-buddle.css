@@ -1,0 +1,28 @@
+/*! 最终版权归**所有 */
+
+.truck-management[data-v-002efa78] {
+  box-sizing: border-box;
+  padding: 10px;
+}
+.title[data-v-002efa78] {
+  font-size: 20px;
+  font-weight: 700;
+  color: #333;
+  line-height: 50px;
+}
+/* 按钮边界 */
+.boundary[data-v-002efa78] {
+  padding-left: 20px;
+}
+.search[data-v-002efa78] {
+  margin-top: 5px;
+}
+.table[data-v-002efa78] {
+  margin-top: 20px;
+}
+
+/* 分页样式 */
+.center-style[data-v-002efa78] {
+  text-align: right;
+}
+
