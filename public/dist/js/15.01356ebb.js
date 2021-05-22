@@ -1,2 +1,0 @@
-/*! 最终版权归**所有 */
-(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{346:function(e,n,t){"use strict";t.r(n),(a=function(){var e=this,n=e.$createElement;return(e._self._c||n)("div",{staticClass:"project-management"},[e._v("项目管理页面")])})._withStripped=!0;var a;t=t(81);(a=Object(t.a)({name:"ProjectManagement"},a,[],!1,null,null,null)).options.__file="src/components/content/operateManagement/ProjectManagement.vue",n.default=a.exports}}]);
